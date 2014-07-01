@@ -1,4 +1,4 @@
-* TODO Rob Intro
+* Rob Intro (from Will)
 * Rob Topics of Special Interest/Asked Questions
 + Dutch: I didn't hear rob address OO in the curriculum. If i didn't
   just miss that bit I'd be curious to know where they fit that in
@@ -74,6 +74,9 @@
 + Invite at least one previous guest each time (and leave open the
   option to all previous guests?)
 + Structural comments
+  + Start with the title splash in screenshare for the person who is
+    NOT introducing first, and then switch to introducer while they
+    take off screenshare.
   + Start with intro of each host (one says their name and intros the
     other to intro the guest)
   + Near end, mention a few things that came up in previous
