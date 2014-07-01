@@ -1,0 +1,59 @@
+* TODO Rob Intro
+* Rob Topics of Special Interest
++ Teaching a principles of imperative computing course 
+  + What are the key ideas to get across?
+  + Are there key ideas that your typical "CS1" in an imperative
+    language doesn't get across, at least not explicitly?
+  + Where do students have trouble?
++ I often get students in my office, anxious over the latest exam and
+  trying to figure out how to do better next time.  What advice do you
+  give students?
++ What's it like teaching in a small, constructed language? (15-122 is
+  taught primarily in a language called C0, a safe C-like variant with
+  checked runtime contracts.)
++ How do you see automated testing fitting into teaching and learning?
+  + Are there pitfalls that we should worry about? Do students
+    "overfit" somehow to automated testing in ways that will hinder
+    their learning more generally?
+  + How do students' experiences with automated testing affect their own testing?
+* Question Pool
++ How do you get to know your students?
++ Tell us about something cool you do in your teaching.
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+
++ Describe a teacher you've had that you admired and what you admired about them.
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ What's something you think every CSists should read, learn, do, or play with?
+
++ What's exciting to you in education that you have tried?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ What's a course you wish you could teach?
++ What's your favorite computing story?
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
+
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What do you do to prepare before a course starts?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How should CS reach out to the public?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
+* Actual Questions
+* TODO list for next time
+
