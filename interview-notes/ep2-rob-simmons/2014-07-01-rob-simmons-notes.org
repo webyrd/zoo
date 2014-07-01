@@ -1,21 +1,33 @@
 * TODO Rob Intro
-* Rob Topics of Special Interest
-+ Teaching a principles of imperative computing course 
-  + What are the key ideas to get across?
-  + Are there key ideas that your typical "CS1" in an imperative
-    language doesn't get across, at least not explicitly?
-  + Where do students have trouble?
-+ I often get students in my office, anxious over the latest exam and
-  trying to figure out how to do better next time.  What advice do you
-  give students?
-+ What's it like teaching in a small, constructed language? (15-122 is
-  taught primarily in a language called C0, a safe C-like variant with
-  checked runtime contracts.)
+* Rob Topics of Special Interest/Asked Questions
++ Dutch: I didn't hear rob address OO in the curriculum. If i didn't
+  just miss that bit I'd be curious to know where they fit that in
+  relation to functional and procedural programming
+
 + How do you see automated testing fitting into teaching and learning?
   + Are there pitfalls that we should worry about? Do students
     "overfit" somehow to automated testing in ways that will hinder
     their learning more generally?
   + How do students' experiences with automated testing affect their own testing?
+
++ Chris (Will student?): What are the unique challenges of teaching
+  first-years as opposed to older students?
++ Ennas asked about how Rob's teaching style has changed in response
+  to student feedback.
+  + How do you "close the loop" on feedback that's not directly
+    actionable?
++ How do you see proofs fitting into CS education?
++ Teaching a principles of imperative computing course 
+  + What are the key ideas to get across?
+  + Are there key ideas that your typical "CS1" in an imperative
+    language doesn't get across, at least not explicitly?
+  + Where do students have trouble?
++ What's it like teaching in a small, constructed language? (15-122 is
+  taught primarily in a language called C0, a safe C-like variant with
+  checked runtime contracts.)
++ I often get students in my office, anxious over the latest exam and
+  trying to figure out how to do better next time.  What advice do you
+  give students?
 * Question Pool
 + How do you get to know your students?
 + Tell us about something cool you do in your teaching.
@@ -54,6 +66,61 @@
 + Tell us about something you tried in your teaching that went horribly awry.
 + Do you have topics where your own interest flags? What do you do?
 + What's something that students consistently have trouble learning in your courses? How do you address it?
-* Actual Questions
+* Terminology
++ Autolab at CMU
++ Imperative programming
++ Post doc
 * TODO list for next time
++ Invite at least one previous guest each time (and leave open the
+  option to all previous guests?)
++ Structural comments
+  + Start with intro of each host (one says their name and intros the
+    other to intro the guest)
+  + Near end, mention a few things that came up in previous
+    conversation that the guest may want to choose among.
+  + End with "do you have any shout-outs" or people you want to thank
+    or refer us to?
++ Need eyebrows on the raccoon to make it look more like Rob
++ Invitation thoughts from Rob
+  + Tom Cortina (one of Rob's mentors, and a friend of Steve's)
+  + Majd Sakr: http://www.qatar.cmu.edu/~msakr/ (teaching a cloud computing course mostly on AWS)
+  + Penny Anderson: CMU instructor who left and returned to academia
++ Links:
+  + http://c0.typesafety.net/
+  + http://cgi.stanford.edu/~dept-ctl/tomprof/posting.php?ID=1340
+* DONE Audience Setup
++ Ennas
++ Dutch
 
+Piam probably not in, I'd guess. 
+
+* Some interesting ideas
++ A post doc in teaching to prep academics
++ Key ideas of imperative reasoning:
+  + (Some) data structures present high traction for the use of mutation
+  + Introducing mutation as a tool via the model of repeatedly
+    breaking-and-fixing invariants gives a functional baseline and
+    small, local deviations from that for non-functional pieces.
++ Automatically checked preconditions, postconditions, and loop
+  invariants as key elements of imperative programming instruction
++ The way a student knows that the proof is wrong is more important
+  than coming up with a new invariant on their own.
+  + Approaching proof by saying: either argue that this invariant will
+    still hold after an iteration or (important part:) give an example
+    where the invariant will hold and the guard will pass, but the
+    next time, the invariant will fail.
+  + (Perhaps) they are more comfortable breaking code (still a hard
+    problem) than writing proofs.
++ Online tutorials as exam preparation resources
++ Exam preparation as a systematic weakness of CS educators
++ Student feedback on hard/easy questions to guide choice of
+  assessments/assignments for future terms.
++ First-year student "special issues"
+  + Time management (getting started in advance and breaking down a
+    problem)
+  + Emotional maturity (handling adversity without undue anxiety?)
++ "We have a pretty clear picture at this time of the foundations of computing. You know, linked lists aren't a fad!"
++ I distinctly remember two things about that class.  He was
+  incredibly at communicating in this minimal visual language (like an
+  elephant falling off a cliff).  Another was that he had all these
+  demonstrations.
