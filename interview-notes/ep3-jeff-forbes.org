@@ -1,0 +1,216 @@
+* Jeff Intro
+Dr. Jeffrey Forbes is an Associate Professor of the Practice with the
+Duke University Computer Science Department, currently on leave at the
+US National Science Foundation as Program Director for the Education
+and Workforce Cluster in the Division of Computer and Network Systems,
+Directorate for Computer and Information Science and Engineering.
+
+Since Jeff does work as an officer of the NSF, I do want to emphasize
+that he's here as a private citizen interested in CS education, not as
+a representative of the NSF or the federal government (or even Duke
+University).
+
+Besides CS education, Jeff is also interested in research on
+intelligent agents and social information processing.
+* Jeff Targeted Questions
++ What are some of the promising directions you see CS education going
+  in the coming years?
++ At NSF, you've been thinking quite a bit about broadening
+  participation in CS.  Why do you think CS has so much trouble
+  attracting a diverse population of students?
++ Can you tell us a bit about your science of networking course?
++ What sort of background do you think a K-12 teacher needs to be an
+  effective CS educator?
++ I understand you haven't been teaching classes lately while at NSF.
+  What do you miss most?
+* Jeff Question Pool
++ EVERY TIME: Describe a teacher you've had that you admired and what you admired about them.
++ Every time?: What's something you think every CSists should read, learn, do, or play with?
+
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
+** Secondary question pool
++ What's a course you wish you could teach?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What's something cool you do in your teaching?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
++ Steve: What are some of the promising directions you see CS
+  education going in the coming years?
++ Jeff: Wide interest in STEM education broadly (academia, industry,
+  public, K-12)
++ Jeff: Interest in *measuring* things.  Used to be based on "really
+  good ideas".
+  + "It can't just be enough to say 'I *think* Java is a better
+    language' ... without any evidence for it."
+  + "It can be very hard to get something that counts as 'evidence' in
+    the education literature."
++ Jeff: MOOCs have made it so that faculty who previously taught their
+  classes and did the best job they could now are asking really
+  interesting questions about what their students learn and what the
+  right way to teach these classes is.
+  + "People say 'people don't learn anything in MOOCs'. Well, the MOOC
+    people come back and say 'people don't learn anything in your
+    lectures, either'."
++ Jeff: increasing enrollment means we need to figure out how to reach
+  all those students; it won't be 1-1 in office hours.
++ Will: What are some of the lessons learned from MOOCs in terms of
+  how to make teaching more effective?
++ Jeff: Two lessons.
+  + "The idea that you interleave assessments with the course material
+    itself, and you do that regularly."
+  + Andy Ko: When they incorporate quizzes/assessment into a task,
+    people engage for longer than when you don't.
+  + "Assessments along with feedback, and *fast* feeback."
+  + "If there's one thing I'm going to take back to my course in the
+    fall, it's that all other things being equal, fast feedback is
+    important.  Fast feedback is better than good feedback that is
+    slow."
+  + If you can get basic feedback back quickly, that's useful.
+    Compared to poring over your code for three weeks is not nearly as
+    functional as getting something back immediately.
++ Will: Discusses practices around quick grading that he's experienced.
++ Jeff: Reiterates key ideas in quick feedback.
++ Jeff: "You can replace a whole course sometimes with just 'we're
+  just going to give you the assignments and the final
+  exam'. ... You'd be surprised how well many students do."
++ Steve: What do you do with the time when you're standing in front of
+  students when you're not assessing them?
++ Jeff: Used to try to avoid saying why something was important
+  to *him*.  Turns out the enthusiasm thing (why it's important
+  to *you*) conveys to students; actually makes some difference.
+  + Going to borrow from Christine Alvarado at UCSD.  Mails every
+    single student in her course at midterm saying "I see how you're
+    doing in the course; you're kind of having trouble here.  Come
+    visit me.  Do this and that.  Etc."
+  + Do more of understanding where the students are and working more
+    with the students who are struggling.
+  + "I did not spend a lot of time with students who were struggling
+    unless they were struggling *and* in my office all the time."
++ Jeff: do more adapting/borrowing from other people's courses (for
+  the data structures course!)
++ Steve: follows up on the adapting idea
++ Jeff: "Sometimes it's harder work to adapt someone else's stuff.
+  You don't know *why* they made the choices they did.  You can't put
+  in your stories of why it matters to you."
++ Jeff: Shouts out to the Mathematical Prestidigitation.
++ Jeff: If we have these online platforms, and there's going to be
+  more sharing.  One thing that would be nice is if I could just
+  import the assignment, how it's graded, the auto-grading part, the
+  lectures, the material for why this is kind of cool, links to recent
+  articles about fraud.
++ Jeff: Adapting at the last minute is tough.  If you give yourself
+  lots of time (shout out to Kevin Wayne), then you have a
+  relationship with it.
++ Will: Industrial relevance vs. academic value tradeoff in intro
+  languages.
++ Jeff: It depends.  There's a growing audience of people who want to
+  take a computing course and apply computing to the problems they
+  have in their discipline.
++ Jeff: Part of what you hear from students about why they're
+  interested in Computer Science is because they want to join the
+  profession.  (We may want this to change someday!)
++ Jeff: CS10k.  Most of these are *not* using industrial-strength
+  languages.  Some comments come back about the languages not being
+  viewed as industrially relevant.  "If something's not viewed as
+  authentic, you are going to have a hard time attracting *some*
+  students."
+  + But.. "If we're successful in CS10k, we're going to get a whole
+    lot more students who have taken a computing course in middle or
+    high school."
++ Jeff: We don't want to turn into some wierd version of math.  An
+  elite few who know everything going on and a bunch of "CS
+  appreciators" who have taken a course but can't really do much with
+  it.
++ Jeff: It's not just that we're not getting enough people; we're not
+  getting the best people.
++ Steve: What's something you think every CSists should read, learn,
+  do, or play with?
++ Jeff: Couple answers.
+  1. Sort of surprising myself to some extent because I didn't like it
+     when I went through it.  TA'd the SICP course.  I don't think
+     that's the right way of doing things.  But I think everyone
+     should read it.  There's evidence that some of the claims are not
+     right.  Like "This levels the playing field."  Colleen Lewis did
+     a study on this, and found that the students with more
+     programming experience did better.  But the functional ideas are
+     powerful.
+  2. Learn more about probability.  Mehran Sehami early paper on naive
+     Bayes spam filtering.
++ Will: relates some SICP-ish experiences (e.g., a student who got one
+  imperative construct and then did nothing but C programming in Lisp
+  from then on)
++ Jeff: Steve missed it :(
++ Will: autonomous robotics/vehicles.  What's your background in that?
+  How should students get involved?
++ Jeff: brought in a lot of different ideas and particularly brought
+  together electrical/mechanical engineers and computing specialists.
+  So, engineers at the time were thinking about cars driving in
+  platoons with minimal smarts.
++ Jeff: role of probability in this context, both because of
+  probabilistic sensor readings and because of the hidden intentions
+  of other drivers.
++ Jeff: points out the problem that most of driving is driving
+  straight, but that overwhelming example doesn't matter when the road
+  curves!
++ Jeff: look forward to this work coming to fruition; "Autonomous cars
+  can't come soon enough for me."
++ Dutch: A lot of programming is good communication within a team.  As
+  we broaden participation in CS education, might we lose some of the
+  shared cultural context that we get with a traditional CS program (4
+  year program, small classes)?
++ Jeff: Broadening access means having less of someone who's involved
+  in the team but has little or no knowledge of computing.
++ Jeff: I think we need to better distill what the important parts are
+  of this cultural context and what the less important parts are.
++ Jeff: Having domain scientists who work with CSists requires each of
+  them knowing a bit about the other's field.
++ Will: wrap-up.  shout-outs
++ Jeff: Been on leave for a little more than three years.  Finally
+  coming to an end in a little less than a month.  Thank you to *all*
+  the people I've worked with in NSF and in the CS education
+  community.  Thanks the Duke CS department as well.
+** Shout-outs
++ Christine Alvarado: https://sites.google.com/a/eng.ucsd.edu/alvarado/
++ Natural Prestidigitation: http://nifty.stanford.edu/2006/wolfman-pretid/
++ Kevin Wayne: http://www.cs.princeton.edu/~wayne/teaching/
++ Colleen Lewis: http://blogs.hmc.edu/lewis/
++ CS10k Project: http://cs10kcommunity.org/projects
++ SICP: http://mitpress.mit.edu/sicp/
++ Mehran Sahami: http://robotics.stanford.edu/~sahami/bio.html
++ Jane Margolis's books:
+  http://mitpress.mit.edu/books/stuck-shallow-end,
+  http://mitpress.mit.edu/books/unlocking-clubhouse
++ Gil Masters: maybe http://en.wikipedia.org/wiki/Gil_Masters??
++ Eric Roberts: http://cs.stanford.edu/people/eroberts/
+** Terminology
++ STEM
++ Natural Prestidigitation
+* TODO list for next time
+
