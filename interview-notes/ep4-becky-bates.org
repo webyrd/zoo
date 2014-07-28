@@ -1,0 +1,243 @@
+Random extra thing: OUTSIDE interview, ask about quality South
+American CS Ed venues for Mike Ernst.
+
+Conference in Brazil annually: World Congress etc.  (Name changes
+regularly.)  Not great, but there are some interesting people there.
+* Becky Intro
+Dr. Rebecca Bates is Professor of Computer Science and Chair of
+Integrated Engineering at Minnesota State University, Mankato and was
+a Fulbright Scholar at the University of Sao Paulo in Brazil.  Becky
+teaches both Computer Science and Engineering.  Her classes are often
+project-oriented with strong and explicit ties to broader social and
+ethical themes.  My personal favorite fact is that Becky teaches an AI
+and science fiction course.
+* Becky Targeted Questions
++ DONE: Could you please just tell us about the sci fi and AI course first
+  so I can geek out?
++ DONE: You lead a lot of project-based courses.  What do you think
+  makes project-based learning successful for students?
++ Can you tell me about something you're a student of now, and what
+  you learn from that experience as a teacher?
+
++ EVERY TIME: Describe a teacher you've had that you admired and what you admired about them.
++ EVERY TIME: What's something you think every CSists should read, learn, do, or play with?
+* Becky Question Pool
++ EVERY TIME: Describe a teacher you've had that you admired and what you admired about them.
++ Every time?: What's something you think every CSists should read, learn, do, or play with?
+
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
+** Secondary question pool
++ What's a course you wish you could teach?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What's something cool you do in your teaching?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
++ Steve: Sci-fi & AI
+  + Becky: wanted a class based on the books and movies she liked
+    "like the cool classes that my friends in Arts get to teach".
+    + Look at history of sci-fi, tracing the path through time.
+    + Historical perspective picks up the ethical and societal issues
+      as well.
+  + Steve: push back on technical issues
+    + Becky: connect ideas from search and robotics to discussion.
+  + Will: Asks re Neal Stephenson's statement that sci-fi is too
+    dystopian and failing to inspire the next gen of scientists &
+    engineers.
+  + Becky: replies always brings in Asimov; tries to bring in
+    Hitchhiker's Guide; good balance.
+  + Will: Most interesting/informative book?
+  + Becky: Diamond Age (Neal Stephenson).  Lots of great issues come
+    up.
+  + Dutch: Do CSists have a different take from other students?
+  + Becky: "They wanted to talk about the impact of the technology
+    they're going to develop, and it wasn't happening anywhere else."
+    (favorite)
++ Steve: What makes project-based learning successful for students?
+  + Becky: "We know that those projects are where much of the student
+    learning happens." (favorite)
+  + "In doing the project, constructing something that's bigger,
+    that's where really good learning happens."
+  + "In our traditional projects, it's something that we kind of
+    thought up." "Instead of a really meaty ill-structured problem, we
+    kind of have to constrain it enough to meet the goals of those
+    classes." (favorite)
+  + "We need bigger problems to work on." "Instead of one project for
+    each of 4 or 5 courses, each semester, I'll have one big project."
+    (favorite)
+  + "At the beginning of the semester, we don't know what they're
+    going to learn." (favorite)
+  + Half of the credits registered for are at the start of the
+    semester, and the rest they register for halfway through once the
+    project is scoped out.
+  + "What could an engineer working two weeks full-time do?  Give that
+    project to our undergrads.." "I like to tell companies: Go to your
+    list of projects to do and give us the one that's always fourth on
+    your list." (favorite)
+  + Steve: How do you orchestrate these projects across those 4 or 5
+    courses?
+  + Becky: The curriculum committee process was hellish.  Goals are
+    very high-level and really do fit the project context, such as
+    "solve engineering problems with a mathematical and scientific
+    foundation".
++ Will: Asks re project management issues: assessment, guidance under
+  lack of structure, and team member problems (deadbeats, withdrawals,
+  etc.).
+  + Becky: "Those are three key problems or, as one of our faculty
+    members likes to say, "opportunities"!" (favorite)
+  + Becky: Have a mentor assigned to the project.  Teams of people
+    evaluating?  We have rubrics.  "The tradeoff is: does everybody
+    have to grade twice as much now so we have two sets of eyes on
+    everything?" (favorite)
+  + Becky: Students are graded based on how they do work.  Oral exams
+    with panels of faculty.
+  + Becky: Structure.  "This is a really hard program for students
+    that want to be told exactly what to do." "In a lot of places
+    you *can* have a plan from freshman to senior year to graduate,
+    and you can follow it."
+  + Becky: "We try to scaffold and structure it early on so by the
+    time they step into a business world, they're able to structure
+    their work." (favorite)
+  + Will: Some students have been known to leave things to the end of
+    the semester.. how do you ensure that they're on track?
+  + Becky: Every week there's a design review meeting with their
+    faculty mentor.
+  + Becky: There's a scoping process at start includes a presentation
+    like a miniature defense.
+  + Becky: Within this scope, what are three possible solution
+    processes you could go on, and which one are you going to do?
++ Rob: Tell us more about the hellish arguments.
+  + Becky: I was on the curriculum committee.  "They were saying
+    here's how the students are going to reach our goals.  The
+    curriculum committee was saying what are you teaching?"
+  + Becky: "How do we transcript this?" Ah.. how do we put it on a
+    transcript.
+  + "What we've done is given the electives bins; so this is in
+    transportation, this is in systems engineering, this is in
+    biomedical engineering."
+  + "We needed to give enough information about the what so people
+    felt comfortable that it's not just we sat around a campfire and
+    sang songs." (favorite)
+  + Becky: This is where reflection can come in as well.
++ Steve: What's something you think every CSists should read, learn,
+  do, or play with?
+  + Becky: "You should at a minimum know what 42 is."
+  + Becky: And no, it's not sufficient to just watch the movie.
+  + "I actually assigned [the Hitchhiker's Guide] to an intro class to
+    read the book."
++ Steve: Favorite teacher
+  + Becky: First one that came to mind was this "I raised my hand in
+    this class; I was one of, you know, four women in this class, and
+    I asked Roscoe Giles [sp?], 'What does foo mean?'"(favorite)
+  + "That experience of having a professor really patiently answer a
+    question without making me feel like I was stupid." (favorite)
+  + Also it helped me learn that sometimes things in programming just
+    don't make sense.
++ Will: Dream class?
+  + Mostly: I'm already teaching it!
+  + Will: Have you gotten any feedback from former students about
+    ethical issues in industry?
+  + Becky: Not really.  What I did get from one student
+    though.. re-read all the books during a power outage.
++ Will: What suggestions do you have for someone else taking this
+  course on?
+  + Becky: "The first couple of times I taught it, I thought it was
+    really important for everyone to have experience coding
+    something."
+  + Becky: "I'm not as worried about really trying to push technical
+    experiences on students.  I do still push the idea of
+    understanding basics of the technology."
+  + "It's more important to connect to good stories."
+  + Will: Steve missed the question :(.  Guests?
+  + Becky: In Mankato, not really.
+  + "Anytime we do a really good job building software engineering
+    solutions, we use our creativity." (favorite)
+  + "That side (Arts), is where people have really thought about how
+    do you nurture this creativity?" (favorite)
+  + "If I had an author, I would ask them to talk about how they
+    nurture that creativity?  How do you imagine?"
+  + Will: Are these all analysis, or do they write anything new?
+  + Becky: "[In Brazil w/grads], I let them choose to create fiction
+    as one of their options.  I haven't really done that in the ugrad
+    classes."
+  + "I had an interesting difficult experience when I was an
+    undergrad.. it's really hard if you're not a writer to write
+    something good."  "Putting off fiction is not a pretty thing.  I'd
+    almost rather read the last-minute non-fiction than the
+    last-minute fiction." (favorite)
++ Steve (for Rob): What went unexpectedly well and poorly for the
+  project-based courses?
+  + Becky: We had this company that had this problem with silt buildup
+    in the bottom of a pool.
+  + They had gone to their in-house engineers for some ideas. In-house
+    engineers said "shut down the whole mine"; consultants said "shut
+    down the whole mine"; students came up with lots of options and
+    ended up having to say in the final presentation "shut down the
+    mine".
++ Steve: Can you tell me about something you're a student of now, and
+  what you learn from that experience as a teacher?
+  + Becky: What I like to do is take dance classes.
+  + "You'd think I've been taking it so long, I should be good at it,
+    but I'm not really good at it."
+  + "I like to do jazz dance, but the learning process for me is so different."
+  + "I like to take these clases especially when I teach intro to
+    remind me of how uncomfortable my students are." (favorite)
+  + "To work on learning something that is hard for me to learn is a
+    really good reminder of that struggle and process." (favorite)
+  + "Give me 8 numbers, I'll remember it.  I'll remember it for a long
+    time, but give me 8 steps, and I have to remember what to do with
+    my arm at the same time?!" (favorite)
+  + "I have to translate the movements into an algorithm!" (favorite)
+  + "I even created a note system for tap dance so I could read it
+    like I read music." (favorite)
+** shout-outs
+Explicit:
++ SIGCSE 2012 abstract on Sci Fi in CS Education:
+  http://dl.acm.org/citation.cfm?doid=2157136.2157184 (Check if she
+  wants the one she described instead: Paper in Vancouver ASEE
+  conference.  Title starts with AI and Sci-Fi.  Perhaps 2011.)
++ Thanks Iron Range Engineering http://www.ire.mnscu.edu/ and Twin
+  Cities Engineering programs http://cset.mnsu.edu/ie/tce.html
++ Reading list: http://bates.cs.mnsu.edu/cs201w/reading.html
++ "They're Made Out of Meat" by Terry Bisson (for 101; there's a movie
+  version): http://www.terrybisson.com/page6/page6.html
++ Kinesthetic Learning Activities: http://www.cs.ubc.ca/~kla/
+
+Implicit: 
++ Asimov: http://www.asimovonline.com/
++ Hitchhiker's Guide to the Galaxy: http://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy
++ Diamond Age: http://en.wikipedia.org/wiki/The_Diamond_Age
++ Include? Roscoe Giles: http://www.bu.edu/ece/people/faculty/a-g/roscoe-giles/
++ Integrated Engineering Program: http://cset.mnsu.edu/ie/
++ "Orange Data Mining Toolkit": http://orange.biolab.si/
+** Terminology
+* TODO list for next time
++ Ask guests to set up for Google+ stuff in advance (try a hangout
+  once!); Google+ Hangout stuff.
++ Send the link to the zoo in the invite message!
