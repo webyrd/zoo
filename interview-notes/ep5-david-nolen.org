@@ -1,0 +1,164 @@
+* David Targeted Questions
++ Why is learning programming language concepts important to learning
+  how to code?
++ What made computers exciting the first time around, before the
+  mid-90s?
++ What made them exciting again when you came back to them?
++ What makes a program or a computing textbook like a "great work of
+  art"?
++ You've talked about working on computing with people outside of the
+  "traditional" computing industry.  What makes a programming language
+  or an environment accessible to people outside of computing?
+
+
++ I've been thinking about how my students who went through a software
+  engineering intro course that happens to be in a functional language
+  (but isn't a language course) don't "get" key ideas in functional
+  programming yet.
+  + What experiences do you think crystallize the key
+    ideas in functional programming for people as they learn it?
+  + Has developing for Clojure given you any insights on that?
+
++ EVERY TIME: Describe a teacher you've had that you admired and what you admired about them.
++ EVERY TIME: What's something you think every CSists should read, learn, do, or play with?
+* David Question Pool
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's a course you wish you could teach?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ What's something every Computer Scientist should know that's not in our curricula?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How should CS reach out to the public?
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What's something cool you do in your teaching?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
++ Will: How'd you start (roughly)?
+  + PRogramming games since he was little.
+  + Computers were boring in the mid-90s (during film school)
++ Is that (SICP) what led to your interest in Clojure?
++ How did you end up being very interested in academic papers, PL
+  concepts, and the like when you feel UI programming doesn't really
+  require that?
++ Asked re core match and other "core" projects
+
+Petered on recording.
+** shout-outs
+Explicit:
++ Reasoned Schemer
++ Will's dissertation
++ "Read books, read papers, try crazy stuff."
+
+Implicit: 
++ SICP
++ Paul Graham
++ Clojure
++ ClojureScript
++ Core Match, Core Async
++ Tony Hoare
++ Go
++ Mini-Kamren (sp?)
++ CSP
++ ITP: Interactive Telecommunications Program at NYU
++ Om and Facebook React
++ Gradual Typing approach
++ Scala
++ QuickCheck generative testing
++ Art of Prolog
++ Essentials of Programming Languages, Mitchell and Wand
++ Lambda calculus
++ Datomic (sp?) in Clojure
++ F#
++ NY Times
++ Cognatect (sp?)
++ Swift
++ Hacker School
++ Kitchen Table Coders
++ From Will:
+* Quotes
+"I'd always sort of looked at programming languages as a consumer."
+
+"SICP was really eye-opening. ... Like objects, SICP really shows you
+that you can model objects very quickly."
+
+"Lisp is a really cool place to explore ideas.  It has a nice simple
+core.  You don't get distracted by other things."
+
+"The cool thing about Go is that it's getting a lot of people excited about CSP."
+
+"All the problems we have now were known in the decade from 1960
+to 1970.  Locks were horrible.  Shared memory parallelism with mutable
+data was horrible."
+
+"What happens in an environment like that, where you don't have a
+broad base of expertise around the technology, is that people have to
+teach themselves."
+
+"Hacker School is like a writer's retreat but for coders."
+
+
+
+the fact that [java] shipped with a garbage collector out of the box
+was radical at the time
+
+
+FAVORITE: "If you look at really hard-core graphics programming, it's
+actually functional programming with horrible syntax."
+
+How to have great ideas, make progress, and connect academia to
+industry: "It's a problem of diversity.  If you have enough people
+with enough broad-based knowledge, you have the opportunity to connect
+the dots."
+
+"It's not like engineers immediately see how to apply the science or academics know how things work in industry."
+
+"Everyone's a teacher."
+
+"The more fruitful thing will be allowing people to overlay types on
+things that were traditionally dynamic languages."
+
+"Data structures? These persistent data structures really deliver
+amazing performance."
+
+"There is a large group of practitioners who want to find better ways
+to build the systems that they're building, and often they just need a
+small bit of inspiration."
+
+"You can say 'this is a constraint solver', and people have no idea
+what you're talking about, and then you can show them a very small,
+beautiful program that solves their problem, and they want to know how
+it works."
+
+
+"You can't know if a programming solution is good or bad until you've
+at least done it two ways."
+
+FAVORITE: "Read books, read papers, try crazy stuff."
+* TODO list for next time
++ Ask guests to set up for Google+ stuff in advance (try a hangout
+  once!); Google+ Hangout stuff.
++ Send the link to the zoo in the invite message!
++ Invite Lynn Stein
++ Bring in language implementors?

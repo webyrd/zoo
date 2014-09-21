@@ -1,0 +1,69 @@
+* Mark Intro
+Dr. Mark Guzdial is TODO with the Georgia Tech TODO Department.  Mark
+is widely known for his research on computing education, particularly
+for the media computation approach used at Georgia Tech and, now, at
+many other institutions.  TODO.
+
+Mark's insightful blog computinged.wordpress.com identifies and makes
+sense of key advances in computing education.
+* Targeted Questions
++ What are some of the promising directions you see CS education going
+  in the coming years?
++ Imagine a CS educator listening that wants to improve students'
+  learning in their course next term, but they only have a few hours
+  to dedicate to preparation and implementation.  What should they
+  try?
++ Now, imagine that same CS educator wants to contribute to CS ed
+  research.  Where should they look for ideas of how to do that?
++ What's your favorite topic that you've blogged about?
++ Can you give us a brief overview of media computation and then tell
+  us how a CS educator might go about adopting it in their practice?
++ At its core, media computation seems to work because it connects to
+  students' personal experience of computation. Do you see promising
+  new directions to make that connection besides media in the coming
+  years?  (AKA: Are these kids still the Nintendo Generation, or are
+  they some other generation?)
++ What sort of background do you think a K-12 teacher needs to be an
+  effective CS educator?
+* Question Pool
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
++ Regular: What's something you think every CSists should read, learn, do, or play with?
+
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
+** Secondary question pool
++ What's a course you wish you could teach?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What's something cool you do in your teaching?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
+** Shout-outs
+** Terminology
+* TODO list for next time
+
