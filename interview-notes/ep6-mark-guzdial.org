@@ -71,7 +71,7 @@ Society Undergraduate Teaching Award.
   + First lesson of HCI applies: "Know thy users, for they are not you."
   + Read lots of code, comment on lots of code.
   + Pedagogical content knowledge: the knowledge about how to teach
-    the specific domain.  Phil Sandler (sp?) came up with a way to measure
+    the specific domain.  Phil Sadler came up with a way to measure
     pedagogical content knowledge: "First time, please answer the
     questions as correctly as you possibly can. Second time, please
     answer the questions in the way you think your students will get
