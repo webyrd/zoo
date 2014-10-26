@@ -1,0 +1,238 @@
+* Steps for Hangout on Air
++ Visit https://plus.google.com/hangouts/onair
++ Start a Hangout on Air (button)
++ Copy and paste the URL that shows (minus the cruft at the end) to share with other guests
+  + May want to setup with Cameraman and Control Room (and Toolbox) first
++ Tweet that it's starting and URL!
+* TODO People to notify of URL
++ Dutch Meyer <hotcha@gmail.com>
++ Will Byrd
++ Jeff Forbes <thejrnf@gmail.com>
+* TODO Mark Intro
+Mark Guzdial is a Professor in the School of Interactive Computing in
+the College of Computing at Georgia Institute of Technology. He
+studies how people come to understand computing and how to make that
+more effective.  He is a PI on the CSLearning4U effort to create
+ebooks to help high school teachers learn CS. He was a PI on the
+NSF-funded "Georgia Computes!" alliance for broadening participation
+in computing, and is a PI on the new NSF alliance "Expanding Computing
+Education Pathways." He invented "Media Computation" and has published
+several books on the use of media as a context for learning
+computing. He is on the editorial boards of the "Journal of the
+Learning Sciences," "ACM Transactions on Computing Education," and
+"Communications of the ACM." With his wife and colleague, Barbara
+Ericson, he received the 2010 ACM Karl V. Karlstrom Outstanding
+Educator award. He was also the recipient of the 2012 IEEE Computer
+Society Undergraduate Teaching Award.
+* TODO Targeted Questions
++ What could a "traditional" educational environment productively
+  import from Hacker School?
+  + Follow-on: With minimal effort?  (For example, the social rules
+    seem like something we could at least advertise.)
+
+
++ What are some of the promising directions you see the practice of CS
+  education going in the coming years?
+  + Live coding in classes
+    + Dagstuhl seminar (shout-out)
+      + TODO: link to cseducation blog posts about Dagstuhl
+    + "Everybody makes mistakes; it's OK to make mistakes in coding."
+    + Live-coding for music group;
+    + "Coding to me is a literacy, and you use it to express yourself
+      and communicate to other human beings."
+    + toplap.org: live coders at a dance hall coding music; "What do
+      people in the audience think about coding when they see that?"
+    + Uri Wilensky Irene Lee (project called "Guts") shout-out (names??); algebra I
+    + Bootstrapworld shout-out
+    + Coding beyond just how to hack software
+    + Live coding conference going on now/soon??
+    + Andrew Sorensen; Alex Maclean (??) live-coder folks
+  + Dutch: things besides music?
+    + Weaving; code to generate weaves (MG can't recall name; check
+      and shout-out?)
+  + Steve: What should I do?
+    + When you get a bug: *slow down* and think-aloud about what you're doing.
+    + Cognitive apprenticeship (Alan Collins, John Seely Brown, Paul
+      Duguid, "Cognitive Apprenticeship"): traditional apprentcieship
+      has lots of pieces; cognitive activities are different because
+      you cannot *SEE* the cognition going on.  Think-aloud is
+      crucial.
+    + On experts' "defensive coding" habits "You do that because you
+      have a certain humility about your coding. That's really hard
+      for students to get!"
+    + 9:28 great quote about humility
+    + ICER 2005: somebody (Yifat Kolikant) wrote about students' notion
+      of being right is different from our notion
+  + Coding for other kinds of purposes; coding in other classes
+  + 9:29: You have to have that practice of humility quote.
+    FANTASTIC.  Need to find it (~15 minutes in, a bit shy).
+  + Stuff we *should* be doing b/c so much evidence: Pair Programming,
+    Peer Instruction, Media Computation (for retention) (shout-out)
+  + Stuff we *should not* be doing: "We know that [criticizing
+    people's background in CS education] is a bad practice."
+    + Bad comments about past experience, Macs vs. Windows vs. UNIX,
+      etc.
++ How should we be preparing CS teachers for high school?
+  + First lesson of HCI applies: "Know thy users, for they are not you."
+  + Read lots of code, comment on lots of code.
+  + Pedagogical content knowledge: the knowledge about how to teach
+    the specific domain.  Phil Sadler came up with a way to measure
+    pedagogical content knowledge: "First time, please answer the
+    questions as correctly as you possibly can. Second time, please
+    answer the questions in the way you think your students will get
+    it wrong." (shout-out)
+  + "You want teachers to have pedagogical content knowledge."
+  + "The students are saying it's going really well.. they like how
+    you compliment their questions."
++ Which is more important: To have CS education in high schools, or to
+  have *high-quality* CS education in high schools?
+  + "If your goal is to get more women and underrepresented minorities
+    into CS, no the *quality* [of HS CS ed] is not that important."
+  + "Having *any* kind of CS education in your high school
+    dramatically increases underrepresented groups' enrollment in
+    university."
+  + In Mark's blog: He wants an economist to estimate the cost in lost
+    productivity for not understanding computing.
+  + For every software programmer there are between 4 and 7 end-user programmers who are not software designers.
+  + "If [computing educators] can't change the languages, the main
+    thing we can do is make it more interesting, more valuable."
+  + "With pair programming, we break down the perception that
+    programming is a solitary activity."
+  + "Our main tool for CS education
+    is *apprenticeship*. .. Apprenticeship leads to really
+    high-quality results."
+  + CSLearning4U project is about this sort of apprenticeship but with
+    lower cost.
+  + "Worksheets are pretty successful in just giving students
+    practice.  We don't have a lot of those in CS."
+  + Parsons' (??) problems (Dale Parsons) (shout-out)
+    + It turns out that solving a Parsons problem requires about the
+      same level of knowledge as being able to write the code in the
+      first place, but when you solve the problem, you'll never get a
+      syntax error.
+    + We know that if you put "while paren paren semicolon" before the
+      curly brace, *that's* a half an hour.  You'll never get that
+      mistake with Parsons problems.
+    + Barbara Ericson working on distractors (lines you don't need) in
+      a Parsons problem.
+    + "I can reduce the cognitive load.  I can reduce the amount of
+      time.  But it's still challenging and still promotes learning."
+    + Just filling in a blank line requires a lot of thought but is a
+      much easier task.
+    + Barbara Ericson is exploring how to gain the benefits of Parsons
+      problems in an exam-like scenario.  Interesting question about
+      this: "If you can't get syntax errors, what kind of errors
+      should you get?"
+    + Fabulous lesson: Find the way to reduce cognitive load while
+      leaving the interesting design choices in place (like Parsons
+      problems).
+    + Exams are a great learning opportunity: "Taking a test improves
+      your learning. Period."  Great work by Michael Lee (sp?) and
+      Andy Ko (Gidget)
++ Dutch: Media computation and hypercard: why did it go away? (shout-out)
+  + "I actually spent more than a year of my life programming in
+    Super-Card."
+  + "Live code is really neat" (shout-out??)
+  + ~"I think that what happened to HyperCard comes down to:" "What
+    demotivates people? It got dissed by the Computer Science
+    establishment."
+  + Workshop at Stanford about future of CS education research.  "The
+    computational scientists for the most part still work in Fortran."
+    "People started saying: that's terrible that they still work in
+    Fortran. We've got to fix them!" (Theme of dissing some approach
+    turning people off.)
+  + Jean Lave and Etienne Wegner (sp?) Situated Learning in
+    communities of practice and legitimate peripheral
+    participation. Best description of that I've ever heard at about
+    50 min's in.
++ Shout out: Betsy DiSalvo research on why kids might want to learn
+  computing. (Paper w/Amy Bruckman (sp?): "It's really not hard to
+  learn Computer Science, but wanting to learn it is.") Barbara
+  Ericson, Briana Morrison, Miranda Parker, Broadening Participation
+  in Computing
+
+DID NOT GET TO THESE FABULOUS QUESTIONS:
++ Why should we care if California or any other state decides to make CS count?
++ What was the biggest success and biggest failure in "Georgia Computes"?
++ What's your favorite topic that you've blogged about?
++ Can you give us a brief overview of media computation and then tell
+  us how a CS educator might go about adopting it in their practice?
++ Now, imagine that same CS educator wants to contribute to CS ed
+  research.  Where should they look for ideas of how to do that?
++ At its core, media computation seems to work because it connects to
+  students' personal experience of computation. Do you see promising
+  new directions to make that connection besides media in the coming
+  years?  (AKA: Are these kids still the Nintendo Generation, or are
+  they some other generation?)
++ Imagine a CS educator listening that wants to improve students'
+  learning in their course next term, but they only have a few hours
+  to dedicate to preparation and implementation.  What should they
+  try?
+* Question Pool
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
++ Regular: What's something you think every CSists should read, learn, do, or play with?
+
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
+** Secondary question pool
++ What's a course you wish you could teach?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What's something cool you do in your teaching?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
+** Shout-outs
+** Terminology
+* TODO list for next time
++ Lost responses to Mark because we're on mute. (Like laughter in
+  response to saying funny things.)
++ Being confident about who's taking the next question. Maybe use mute
+  status to signal who's coming up next.
+* TODO Shout-out stuff
+DOUBLE-CHECK Phil Sadler article about measuring pedagogical content knowledge
+
+
+
+Handled (?):
+Cognitive Apprenticeship paper: http://ocw.metu.edu.tr/pluginfile.php/9108/mod_resource/content/1/Collins.pdf
+bootstrapworld.org
+Alex Maclean TIDAL
+Andrew Sorenson
+http://vimeo.com/andrewsorensen
+Ericson
+toplap.org
+bpcportal.org
+Uri Wilensky
+Irene Lee GUTS
+bootstrapworld.org
+Alex Maclean TIDAL
+Andrew Sorenson
+http://vimeo.com/andrewsorensen
+Cognitive Apprenticeship paper: http://ocw.metu.edu.tr/pluginfile.php/9108/mod_resource/content/1/Collins.pdf
+
+
