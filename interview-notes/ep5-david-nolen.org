@@ -66,9 +66,37 @@
 
 Petered on recording.
 ** shout-outs
+To add:
++ The Reasoned Schemer
++ Will Byrd's dissertation
++ Structured Interpretation of Computer Programs
++ Paul Graham
++ Clojure
+  + ClojureScript
+  + Datomic (sp?) in Clojure
+  + Core Match, Core Async
++ Tony Hoare
++ Go
++ Mini-Kamren (sp?)
++ CSP (concurrent??)
++ ITP: Interactive Telecommunications Program at NYU
++ Om and Facebook React
++ Gradual Typing approach
++ Scala
++ QuickCheck generative testing
++ Art of Prolog
++ Essentials of Programming Languages, Mitchell and Wand
++ Lambda calculus
++ F#
++ NY Times
++ Cognatect (sp?)
++ Swift
++ Hacker School
++ Kitchen Table Coders
+
 Explicit:
 + Reasoned Schemer
-+ Will's dissertation
++ Will Byrd's dissertation
 + "Read books, read papers, try crazy stuff."
 
 Implicit: 
