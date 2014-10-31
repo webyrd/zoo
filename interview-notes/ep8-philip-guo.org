@@ -1,0 +1,144 @@
+* Steps for Hangout on Air
++ Visit https://plus.google.com/hangouts/onair
++ Start a Hangout on Air (button)
++ Copy and paste the URL that shows (minus the cruft at the end) to share with other guests
+  + May want to setup with Cameraman and Control Room (and Toolbox) first
++ Tweet that it's starting and URL!
+* TODO People to notify of URL
++ Dutch Meyer <hotcha@gmail.com>
++ Will Byrd
++ Jeff Forbes <thejrnf@gmail.com>
+* TODO Mark Intro
+Mark Guzdial is a Professor in the School of Interactive Computing in
+the College of Computing at Georgia Institute of Technology. He
+studies how people come to understand computing and how to make that
+more effective.  He is a PI on the CSLearning4U effort to create
+ebooks to help high school teachers learn CS. He was a PI on the
+NSF-funded "Georgia Computes!" alliance for broadening participation
+in computing, and is a PI on the new NSF alliance "Expanding Computing
+Education Pathways." He invented "Media Computation" and has published
+several books on the use of media as a context for learning
+computing. He is on the editorial boards of the "Journal of the
+Learning Sciences," "ACM Transactions on Computing Education," and
+"Communications of the ACM." With his wife and colleague, Barbara
+Ericson, he received the 2010 ACM Karl V. Karlstrom Outstanding
+Educator award. He was also the recipient of the 2012 IEEE Computer
+Society Undergraduate Teaching Award.
+* TODO Targeted Questions
++ Advising research for me is scary (because I feel like an imposter)
+  and time-consuming (because I'm not sure how else to do it than to
+  meet weekly and spend a fair chunk of my time on each student's
+  project).  You've thought a lot about this.
+  + How do you ensure when you're advising a student that you're
+    really helping them make progress in their learning, research, or
+    career?
+  + How do you ensure that the research project you're working on with
+    a student moves forward?
+  + How do you manage the time commitment involved in advising without
+    sacrificing (too much of?) the advisor/advisee experience?
++ I love your view of education as "removing fear" from various tasks,
+  but there's a lot of fear *of education* for our students.  What do
+  you think students' fears are as they enter a course, and how we
+  could remove those fears?
+  + Among my students' biggest fears is the fear of command-line
+    interfaces, which ties into your "Two Cultures" article.  How
+    would you recommend removing the fear of CLIs?
++ Could you briefly describe your Python tutor (or maybe show it?) for
+  our audience?
+  + For those who haven't used it, this may seem like a mean question.
+    So, I'm going to preface with: I tried out your online Python tutor,
+    had a good time, and learned something.. and was then asked to
+    submit a little form saying what I learned, if anything.
+  
+    So.. What do people learn from your online Python tutor?
+  + What have you learned from the tutor about key elements to include
+    and exclude from a student's model of memory?
+  + How do you incorporate the tutor into courses' curricula?
++ Reading your article about silent technical privilege, I found
+  myself nodding and also cringing a bit.  This really highlights how
+  easy it is to participate in micro-inequities.  Have you thought
+  about some common statements (or types of statements) teachers might
+  make that contribute to micro-inequities?
++ [Not very well-thought-through yet:] The cultural schism you
+  describe in your article on the two cultures of computing resonate
+  with the trouble I have design high-quality assignments for my
+  students.  I want them to "do cool stuff" but "learn what I want
+  them to learn" from it, and often what I want them to learn looks
+  pretty lame from the user-standpoint.  Help?!
++ [Not very well-thought-through yet:] OK; I've made some (I think)
+  great course and I'm teaching it to my students, but in my
+  (depressing?) view, most of the stuff isn't going to stick with them
+  or matter to them in the long run. How should I guide my students to
+  get what matters out of my course and their education?
++ What's your favorite topic that you've blogged about?
+
+Note: we may also want to follow up on some topics from the upcoming
+Hacker School episode.
+* Question Pool
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
++ Regular: What's something you think every CSists should read, learn, do, or play with?
+
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
+** Secondary question pool
++ What's a course you wish you could teach?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What's something cool you do in your teaching?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
+** Shout-outs
+** Terminology
+* TODO list for next time
++ Lost responses to Mark because we're on mute. (Like laughter in
+  response to saying funny things.)
++ Being confident about who's taking the next question. Maybe use mute
+  status to signal who's coming up next.
+* TODO Shout-out stuff
+DOUBLE-CHECK Phil Sadler article about measuring pedagogical content knowledge
+
+
+
+Handled (?):
+Cognitive Apprenticeship paper: http://ocw.metu.edu.tr/pluginfile.php/9108/mod_resource/content/1/Collins.pdf
+bootstrapworld.org
+Alex Maclean TIDAL
+Andrew Sorenson
+http://vimeo.com/andrewsorensen
+Ericson
+toplap.org
+bpcportal.org
+Uri Wilensky
+Irene Lee GUTS
+bootstrapworld.org
+Alex Maclean TIDAL
+Andrew Sorenson
+http://vimeo.com/andrewsorensen
+Cognitive Apprenticeship paper: http://ocw.metu.edu.tr/pluginfile.php/9108/mod_resource/content/1/Collins.pdf
+
+
