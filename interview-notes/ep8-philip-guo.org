@@ -8,41 +8,28 @@
 + Dutch Meyer <hotcha@gmail.com>
 + Will Byrd
 + Jeff Forbes <thejrnf@gmail.com>
-* TODO Mark Intro
-Mark Guzdial is a Professor in the School of Interactive Computing in
-the College of Computing at Georgia Institute of Technology. He
-studies how people come to understand computing and how to make that
-more effective.  He is a PI on the CSLearning4U effort to create
-ebooks to help high school teachers learn CS. He was a PI on the
-NSF-funded "Georgia Computes!" alliance for broadening participation
-in computing, and is a PI on the new NSF alliance "Expanding Computing
-Education Pathways." He invented "Media Computation" and has published
-several books on the use of media as a context for learning
-computing. He is on the editorial boards of the "Journal of the
-Learning Sciences," "ACM Transactions on Computing Education," and
-"Communications of the ACM." With his wife and colleague, Barbara
-Ericson, he received the 2010 ACM Karl V. Karlstrom Outstanding
-Educator award. He was also the recipient of the 2012 IEEE Computer
-Society Undergraduate Teaching Award.
+* TODO Philip Intro
+Philip Guo is an Assistant Professor of Computer Science at the
+University of Rachester.  He's somewhat new to classroom teaching
+himself but has thought and written a great deal about education,
+including creating the Online Python Tutor, publishing his own
+Ph.D. experience, and writing extensively about mentoring, teaching,
+and diversity.  Philip is also, coincidentally, a Hacker School
+resident last year, making him our fourth guest with ties to Hacker
+School!
 * TODO Targeted Questions
-+ Advising research for me is scary (because I feel like an imposter)
-  and time-consuming (because I'm not sure how else to do it than to
-  meet weekly and spend a fair chunk of my time on each student's
-  project).  You've thought a lot about this.
-  + How do you ensure when you're advising a student that you're
-    really helping them make progress in their learning, research, or
-    career?
-  + How do you ensure that the research project you're working on with
-    a student moves forward?
-  + How do you manage the time commitment involved in advising without
-    sacrificing (too much of?) the advisor/advisee experience?
-+ I love your view of education as "removing fear" from various tasks,
-  but there's a lot of fear *of education* for our students.  What do
-  you think students' fears are as they enter a course, and how we
-  could remove those fears?
-  + Among my students' biggest fears is the fear of command-line
-    interfaces, which ties into your "Two Cultures" article.  How
-    would you recommend removing the fear of CLIs?
+NOTE: Philip would rather avoid "traditional classroom teaching"
+questions (due to lack of experience) and stick with research
+supervision, Hacker-school style mentorship, pair programming, and
+edtech stuff.
+
++ Regular: What's something you think every CSists should read, learn, do, or play with?
++ [Not very well-thought-through yet:] The cultural schism you
+  describe in your article on the two cultures of computing resonate
+  with the trouble I have designing high-quality assignments for my
+  students.  I want them to "do cool stuff" but "learn what I want
+  them to learn" from it, and often what I want them to learn looks
+  pretty lame from the user-standpoint.  Help?!
 + Could you briefly describe your Python tutor (or maybe show it?) for
   our audience?
   + For those who haven't used it, this may seem like a mean question.
@@ -54,23 +41,39 @@ Society Undergraduate Teaching Award.
   + What have you learned from the tutor about key elements to include
     and exclude from a student's model of memory?
   + How do you incorporate the tutor into courses' curricula?
++ How do you manage the time commitment involved in advising without
+  sacrificing (too much of?) the advisor/advisee experience?
++ What's your favorite topic that you've blogged about?
++ Advising research for me is scary (because I feel like an imposter)
+  and time-consuming (because I'm not sure how else to do it than to
+  meet weekly and spend a fair chunk of my time on each student's
+  project).  You've thought a lot about this.
+  + How do you ensure that the research project you're working on with
+    a student moves forward?
+  + How do you ensure when you're advising a student that you're
+    really helping them make progress in their learning, research, or
+    career?
 + Reading your article about silent technical privilege, I found
   myself nodding and also cringing a bit.  This really highlights how
   easy it is to participate in micro-inequities.  Have you thought
-  about some common statements (or types of statements) teachers might
-  make that contribute to micro-inequities?
-+ [Not very well-thought-through yet:] The cultural schism you
-  describe in your article on the two cultures of computing resonate
-  with the trouble I have design high-quality assignments for my
-  students.  I want them to "do cool stuff" but "learn what I want
-  them to learn" from it, and often what I want them to learn looks
-  pretty lame from the user-standpoint.  Help?!
-+ [Not very well-thought-through yet:] OK; I've made some (I think)
-  great course and I'm teaching it to my students, but in my
+  about some common actions (or statements, etc.) teachers might make
+  that contribute to micro-inequities?
++ [Not very well-thought-through yet:] OK; let's say I've made some (I
+  think) great course and I'm teaching it to my students, but in my
   (depressing?) view, most of the stuff isn't going to stick with them
   or matter to them in the long run. How should I guide my students to
   get what matters out of my course and their education?
-+ What's your favorite topic that you've blogged about?
++ Live coding has been a bit of a theme on the Zoo.  I understand
+  you've been exploring livecoding screencasts for education.  What
+  have you learned in the screencasts you've made so far?
++ I love your view of education as "removing fear" from various tasks,
+  but there's a lot of fear *of education* for our students.  What do
+  you think students' fears are as they enter a course, and how we
+  could remove those fears?
+  + Among my students' biggest fears is the fear of command-line
+    interfaces, which ties into your "Two Cultures" article.  How
+    would you recommend removing the fear of CLIs?
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
 
 Note: we may also want to follow up on some topics from the upcoming
 Hacker School episode.
@@ -112,33 +115,94 @@ Hacker School episode.
 + What's something that students consistently have trouble learning in your courses? How do you address it?
 + What do you do for students who REALLY want some topic but your school just doesn't do it?
 * Actual Questions
++ Live-coding/screencasts
++ Removing fear blog post
+  + Blogging as externalizing memory; "gave a good lecture, go blog
+    about it"
+  + OS courses as removing fear of systems programming
+  + removing fear *of* education
+    + eliminate need for prior background
+    + Don't say "this is hard-core stuff", "you have to be a real
+      ninja to get this" to avoid making people feel they are *not*
+      the experts you suggest when they don't get it
+    + very open-ended project in a web programming class
+    + keep a poker-face for questions, "casting things as neutral
+      choices"
+  + Will: Problems that students have who are self-taught?
+    + "Self-teaching programming you just learn a lot of sloppy
+      habits."
++ Mentoring students toward career success
+  + Being a near peer
+  + Students come to you with a research goal/deliverable
+  + Separately there's the question of what they'll "learn as a
+    person"
+  + Key piece of this is to "hit the middle" of these two aspects.
+  + "Figuring one key thing they want to learn from the project, and
+    cater to that piece."
+  + "Framing every project with a student with what's the deliverable
+    you want and what's some new skill we want to learn."
++ Describe a teacher you've had that you admired and what you admired about them.
+  + 8th grade English teacher
+  + Engl as a second language and had to remove fear of writing/reading
++ Hacker School experience's impact
+  + Web-programming: half of class: exams on concepts/lecture; half of
+    class: group projects that are very milestone-based
++ Online Python tutor
++ Will: philosophy of the environment of the class; what do you
+  optimize for in your teaching?
+  + High-order bit: Providing an inclusive environment.  "I want
+    people to not have that fear that they don't belong.  That effect
+    might just drown out all the other things."
+    + Don't disparage particular languages
+    + Don't say something is super hard-core/removing stereotype
+      threat
+    + Non-gendered pronouns; don't refer to programmers as "he", "this
+      guy", etc. and the same for inanimate objects (a piece of code
+      as "this guy over here").
+  + Will follow-up: words of wisdom for new graduate students about to
+    teach for the first time:
+    + "Being aware of your own expert blindspot."  Things that you
+      think are pretty obvious.. [command line terminals].
+    + "A related thing with the expert blindspot is just to *slow
+      down*."
++ How to remove disparagement/fear of ancient CLIs?
+  + With respect to computational scientists
+  + Hard in a canned, classroom environment
+  + Toy vs. substantive examples
+    + Having a motivating example is the key
+    + Project is: let's go crawl Wikipedia, 10GB of data, find all the
+      famous people, and create a report
+    + Word vs. LaTeX
++ Something every CSist educator should read?
+  + Unlocking the Clubhouse
+  + Reading works that are non-technical about motivational, racial,
+    and gender aspects of computing.
++ Shout-out time
 ** Shout-outs
++ http://www.pgbovine.net/
++ Ph.D. Grind http://www.pgbovine.net/PhD-memoir.htm
++ ************************************************************************************ Philip's classes
++ EdX https://www.edx.org/
++ ************************************************************************************ Mark Guzdial's blog post about motivational aspects in CS that hinder people (linked in CACM blogs??)
++ ************************************************************************************ Blog post re helping a student in his 40's learn programming
++ ************************************************************************************ Paper Mark Guzdial linked to refuting claims about discovery-learning
++ David Pritchard's https://daveagp.wordpress.com Java front end for the Tutor https://github.com/daveagp/java_visualize
++ ************************************************************************************ Missed something about "two Johns"??
++ Cultural divide blog posts http://www.pgbovine.net/two-cultures-of-computing.htm
++ Unlocking the Clubhouse, Margolis and Fisher http://dl.acm.org/citation.cfm?id=543836
++ Stuck in the Shallow End http://dl.acm.org/citation.cfm?id=1413116
++ SICP http://mitpress.mit.edu/sicp/, HtDP http://htdp.org/, the
+  Dragon Book http://en.wikipedia.org/wiki/Dragon_Book
++ Thanks: Academics who blog: Matt Might
+  http://matt.might.net/articles/, Mark Guzdial
+  http://matt.might.net/articles/, John Regehr
+  http://blog.regehr.org/, http://tagide.com/blog/ Cristina Videira
+  (Crista??) Lopes at UCI.  "Academics are in this great position of
+  being able to blog very openly about many things.  The general
+  public takes us seriously because they don't think we're corporate
+  schills."  "One of the awesomest parts of academia: When I blog
+  about something, people know that it's sort of a public service."
++ "I encourage graduate students to write and blog about stuff."
 ** Terminology
 * TODO list for next time
-+ Lost responses to Mark because we're on mute. (Like laughter in
-  response to saying funny things.)
-+ Being confident about who's taking the next question. Maybe use mute
-  status to signal who's coming up next.
 * TODO Shout-out stuff
-DOUBLE-CHECK Phil Sadler article about measuring pedagogical content knowledge
-
-
-
-Handled (?):
-Cognitive Apprenticeship paper: http://ocw.metu.edu.tr/pluginfile.php/9108/mod_resource/content/1/Collins.pdf
-bootstrapworld.org
-Alex Maclean TIDAL
-Andrew Sorenson
-http://vimeo.com/andrewsorensen
-Ericson
-toplap.org
-bpcportal.org
-Uri Wilensky
-Irene Lee GUTS
-bootstrapworld.org
-Alex Maclean TIDAL
-Andrew Sorenson
-http://vimeo.com/andrewsorensen
-Cognitive Apprenticeship paper: http://ocw.metu.edu.tr/pluginfile.php/9108/mod_resource/content/1/Collins.pdf
-
-
