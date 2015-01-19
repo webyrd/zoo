@@ -1,0 +1,148 @@
+* Steps for Hangout on Air
++ Visit https://plus.google.com/hangouts/onair
++ Start a Hangout on Air (button)
++ Copy and paste the URL that shows (minus the cruft at the end) to share with other guests
+  + May want to setup with Cameraman and Control Room (and Toolbox) first
++ Tweet that it's starting and URL!
+* Colleen Intro
+Colleen Lewis is a professor of computer science at Harvey Mudd
+College who specializes in computer science education. Colleen
+researches how people can succeed in computer science, regardless of
+their background or personal characteristics. I don't use the word
+"success" here lightly.  I love the fact that Colleen's research has a
+decidedly positive viewpoint and often turns on the assumption that
+students have strengths they bring to the table as they learn CS. That
+has not only led to some cool research, it also makes reading it a lot
+more fun than a doom-and-gloom apprach!
+
+Near and dear to the Zoo's heart, she also curates CSTeachingTips.org,
+an NSF-sponsored project for disseminating effective computer science
+teaching practices (i.e. CS pedagogical content knowledge).
+* Targeted Questions
++ Can you tell us a bit about your CS Teaching Tips project?
+  + Where would you advise someone to dive in among the Teaching Tips?
+    + A new instructor?
+    + An experience one?
+  + Weird question: How important are the tips themselves for teachers
+    vs. looking for and thinking about new ways to approach teaching?
++ You're launching a Scratch MOOC soon on EdX.
+  + Can you tell us a bit about how and why this happened?
+  + What have you learned about advantages and disadvantages of MOOCs
+    vs. in-person teaching?
+  + You've made a great series of videos introducing Scratch.
+    + Can you give us a bit of advice about what makes a video successful?
+    + Live coding has been a theme on the Zoo.  Are there elements of
+      live coding that you try to capture in your videos?  Elements you
+      try to avoid?
+    + How should a teacher incorporate video resources into their
+      classroom?
+      + For that matter, how should a teacher incorporate texts into
+	their classroom?
+    + It seems hard to get traction in a "real" CS program with a visual
+      language like Scratch.  How should we assess students'
+      transferable progress to document that students can learn
+      programming in Scratch?  (*Do* they?)
++ You argued in a recent SIGCSE Bulletin article that we should strive
+  for equal access for students not just to material resources like
+  instruction but to non-material ones.  How can instructors take
+  steps to give equitable access to non-material resources like an
+  identity as a CSist and supportive peers?
++ You've pointed out that students can feel discouraged because they
+  find CS "disconnected" from their prior ways of learning and
+  thinking.  How would you advise a new instructor to help students
+  find those connections?
+  + Follow-up if connections to *problems*: OK, but how should we help
+    them connect the process of programming and debugging, or even the
+    pieces of a program to their prior experiences?
++ You talked about the importance of understanding the "state" of the
+  "notional machine" in your debugging case study.
+  + How do we equip students to pay attention to the important parts
+    of the computer's state?
+  + You were careful to define "state" in a way that would apply to
+    functional programming as well as imperative.  I'm pretty
+    confident about what to draw to communicate the state in an
+    imperative language to my students, but what do I draw in a
+    functional language?  (Is it a drawing?)
++ Harvey Mudd is a somewhat unusual university.  Can you tell us a bit
+  about the place?
++ What makes a successful research project with a student?
+  + You seem to be very careful about scoping out the projects in advance.
+    + What do you think about to provide an appropriate scope?
+    + Is there a danger of overconstraining the project's scope? How
+      do you avoid that?
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
++ Regular: What's something you think every CSist should read, learn, do, or play with?
+* Question Pool
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
++ Regular: What's something you think every CSists should read, learn, do, or play with?
+
++ What's something cool you do in your teaching?
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
+** Secondary question pool
++ What's a course you wish you could teach?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
+** Shout-outs
+** Terminology
+* TODO list for next time
+Possible guests:
++ Leigh Anne Sudol
++ a HS teacher unmentioned
+* TODO Shout-out stuff
+<a href="http://www.eecs.berkeley.edu/~clancy/">Mike Clancy</a><br/>
+<a href="http://scratch.mit.edu/">Scratch</a><br/>
+<a href="https://www.edx.org/course/programming-scratch-harveymuddx-cs002x#.VL2Nx0fF-Ck">EdX Scratch course</a><br/>
+<a href="http://el.media.mit.edu/logo-foundation/logo/index.html">Logo</a>, <a href="http://education.mit.edu/starlogo/">StarLogo</a>, and <a href="http://en.wikipedia.org/wiki/Seymour_Papert">Seymour Papert</a><br/>
+<a href="http://apcsprinciples.org/">AP CS Principles</a><br/>
+<a href="http://bjc.berkeley.edu/">Beauty and Joy of Computing course</a><br/>
+Colleen's <a href="http://dl.acm.org/citation.cfm?id=1734263.1734383&coll=DL&dl=GUIDE">Logo vs. Scratch paper</a><br/>
+<a href="http://www.cs.ucsb.edu/~pconrad/">Phil Conrad</a><br/>
+<a href="http://gse.berkeley.edu/people/andrea-disessa">Andy DiSessa</a>'s book <a href="http://mitpress.mit.edu/books/changing-minds">Changing Minds</a><br/>
+<a href="http://www.cs.hmc.edu/~oneill/">Melissa O'Neill</a><br/>
+<a href="http://www.cambridge.org/ca/academic/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/computing-biologists-python-programming-and-principles">Computing for Biologists</a> by <a href="http://www.cs.hmc.edu/~hadas/">Ran Libeskind-Hadas</a> and <a href="https://www.hmc.edu/biology/faculty-staff/eliot-c-bush/">Eliot Bush</a><br/>
+<a href="http://d3js.org/">D3</a> data visualization library<br/>
+<a href="https://www.hmc.edu/">Harvey Mudd</a>
+** Favorites
+~20 mins in, rough quote: "Show a new Scratch programmer a turn block,
+and they get it. Show them a move block, and they get it. Show them
+the two together and ask what they do, and they'll say it will turn
+and move at the same time."
+
+Ethnographic field research discovers: "These students were not
+listening to us. Not even a little bit. Not even our best students."
+~30 mins in.
+
+~40 mins in: Scratch was a clear win for learning conditionals and
+loops, *but* the students who took Logo were much more confident in
+their ability to program.
+
+The picture from the Matrix with symbols streaming down; the students thought it was DEFINITELY programming.
+
