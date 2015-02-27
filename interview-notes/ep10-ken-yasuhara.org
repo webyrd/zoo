@@ -1,0 +1,148 @@
+* Steps for Hangout on Air
++ Visit https://plus.google.com/hangouts/onair
++ Start a Hangout on Air (button)
++ Copy and paste the URL that shows (minus the cruft at the end) to share with other guests
+  + May want to setup with Cameraman and Control Room (and Toolbox) first
++ Tweet that it's starting and URL!
++ *NOTE* about how we use the chat window
+* Ken Intro
+Ken Yasuhara is a research scientist with the Center for Engineering
+Learning & Teaching at the University of Washington.  His Ph.D. is in
+Computer Science, but he's transitioned more broadly to engineering
+education.  He studies big-picture issues in engineering education
+that often span many courses or disciplines.  He's done quite a bit of
+work on how engineering students understand and engage in design
+activities and has recently embarked on a study of reflection in
+engineering education.
+
+When Ken and I attended UW for graduate school together for our PhDs,
+I learned to respect both his keen judgment in educational research
+and his peaceful and inclusive perspective on life.
+
+I'm excited to welcome him to the show today!
+* Targeted Questions
++ I know you've been working on reflection in engineering lately..
+
+  + Can you just give us a brief spiel about what reflection is in a
+    pedagogical context and why educators should be thinking about it?
+
+  + What's an example of something lightweight I can do to promote
+    reflection in my classes?
+    + What should I expect me and the students to get out of it?
+    + How should I "close the loop" with students after this exercise?
+    + Let's just imagine for a moment that I try this, but I'm a slacker
+      who has trouble getting around to ALL the reflection data I collect
+      from my students.  Are there realistic shortcuts that are still
+      valuable?  (Sampling the data? Skimming?)
+
+  + OK; same question but for some heavier-weight exercises.
+
++ You've transitioned from CS education into a different and
+  somewhat broader focus on engineering education.  What would you most
+  like to feed back to CS educators from your engineering education
+  perspective?
+
++ (Upgraded from stock:) What's something you're a student of now?
+  What does your experience as a student tell you about teaching?
+
++ (Upgraded from stock:) What's a course you wish you could teach?
+
++ Regular: What's something you think every CSists should read, learn, do, or play with?
+
++ (Upgraded from stock:) What's something every Computer Scientist
+  should know that's not in our curricula?
+
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
+
+
++ SKIP? As a community, CS has been studying gender and diversity for a while
+  now: What should a practitioner take away from this work from a
+  short-term perspective (i.e., what they can do in the next term) and a
+  long-term perspective (i.e., what they should be thinking about for the
+  next 10 years)?
+* Question Pool
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
++ Regular: What's something you think every CSist should read, learn, do, or play with?
+
+** Secondary question pool
++ What's something cool you do in your teaching?
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
+** Shout-outs
+** Terminology
+* TODO list for next time
++ Have a mailing list or the like
+  + Use the Google Group I started putting together?
++ Solicit questions for the guest *beforehand*
++ Guest suggestion: UW Psychologist [Sakhna??] Cheryan; stereotype threat work
++ Dutch's Guest suggestion: http://pages.cs.wisc.edu/~remzi/OSTEP/
+  (the prof writing this book); may have things to say about open
+  textbooks
+
+From Colleen, possible guests:
++ Leigh Anne Sudol
++ a HS teacher unmentioned
+* TODO Shout-out stuff
+** Favorites
+
+The group there: CPREE, CELT, CAEE (??)
+Jennifer Turin
+Minute Paper (Classroom Assessment Techniques; Cross and Angelo)
+  Muddiest Point
+I brought in: Eric Mazur's demo reserach
+Exam wrappers
+I brought in: Tomorrow's Prof list
+Life-long Learners
+Field-Guide to Reflection Activities
+
+
+Will asks about making the time for reflection.
+
+
+Portfolio construction program
+Pair-programming
+Peer observation
+
+
+To Twitter (~50 minutes in): For project groups: An early reflection
+exercise can be the basis of their "team contract" and the later peer
+evaluation used as part of the group's assessment.
+
+
+Carol Dweck's work on mindset
+
+CELT
+Jenifer Turins
+Cindy Atman
+Jim [?] Cornell (Associate Director and Intructional Developer)
+
+
