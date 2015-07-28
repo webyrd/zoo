@@ -1,0 +1,218 @@
+* Steps for Hangout on Air
++ Visit https://plus.google.com/hangouts/onair
++ Start a Hangout on Air (button)
++ Copy and paste the URL that shows (minus the cruft at the end) to share with other guests
+  + May want to setup with Cameraman and Control Room (and Toolbox) first
++ Tweet that it's starting and URL!
++ *NOTE* about how we use the chat window
+* Warren Intro
+Warren Code is the Associate Director for the University of British
+Columbia Faculty of Science Centre for Learning and Teaching. Unlike
+most of our guests, Warren is not a Computer Scientist. His background
+and Ph.D. are in mathematics. However, Warren administers the Carl
+Wieman Science Education Initiative, where he works to improve science
+education through a huge variety of initiatives across many
+disciplines including CS. He also has a personal connection to CS as a
+proponent of Software Carpentry, which I hope we'll get a chance to
+talk more about soon.
+
+Without further ado, Warren. Welcome to the Zoo!
+* Targeted Questions
++ Can you tell us a bit about your career trajectory and how it has
+  led you to science education?
+  + Interested in "can we teach better?"
+  + Fellows as discipline experts with teaching expertise.
+    + Why that model? What works well and what doesn't?
+    + "Faculty are capable of doing these things [learning
+      disciplinary education ideas] in principle, but there's not the
+      time."
+    + "We want to collect local evidence, which is particularly
+      convincing to people."
++ I can tell that you care a lot about teaching. I'm just curious why.
+  + Back to high school. Tutoring.
+  + Several levels: 1-1, larger teaching, teaching teachers,
+    administering STLFs
++ I know you're interested in the Software Carpentry project targeted
+  at enabling scientists to use computing. Can you tell us more about
+  the project and your experiences working with it?
+  + Greg Wilson
+  + Crash course in software development workflows to deal with huge
+    amounts of data
+  + Key elements
+    + UNIX: shell management/filesystems
+    + flexible data-oriented programming language: R/python
+    + defensive coding practices
+    + testing
+    + version control
+    + databases and data cleaning: SQLite
+  + Sticky notes as a tool in a workshop
+    + Green and red postits to tell people if you need help
+    + Livecoding
++ Piam: Experiences teaching students now that you work with
+  educators. What sort of mistakes do you see both groups making?
+  + "I might not frame it as mistakes. Try to put a more positive spin
+    on things."
+  + "What I learned later on... is you can make a lot more effective
+    decisions in teaching based on knowing what learning looks like to
+    students."
+  + "We use the term 'expertise-based classroom'."
+  + "We think of students as novices in the discipline, and we're
+    trying to move them along to experts."
+  + "At that point I started introducing many more activities. More
+    students getting practice while I'm there."
+  + "If they had to learn something that they can learn by reading,
+    trying to push that out of the classroom."
+  + "It can't just be 'just watch this chapter' or 'just read this
+    video'." "The way to promote that was to have a very specific set
+    of tasks. Look at this figure, read these specific paragraphs, and
+    then there's a little quiz that guides people about what they
+    should get out of the reading."
+  + Piam: you mentioned 'deliberate practice'. Can you tell me more?
+  + "Deliberate practice as opposed to practice is the difference
+    between playing a lot of chess games and playing chess games but
+    reading about the theory of chess or working on openings or
+    reviewing how you played and thinking about what you'd do next
+    time."
+  + Piam: Do you give students the motivation to do that (deliberate
+    practice) or do you actually *do it* in the classroom?
+  + "The motivation is important." "This is your opportunity to
+    practice while you're here and you can make mistakes."
+  + "Giving effective feedback is why it's useful to do some of this
+    in the classroom."
+  + "People are concerned that I'm going to give them an activity and
+    now I'm just a passive person in the classroom. ... So actually
+    the expertise of the instructor is even more prominent in this
+    kind of setting."
+  + Follow-up: what do we do for students who are *not* going to be
+    experts. (E.g., 'cs omega', be it computational thinking or
+    software carpentry.)
+  + "This is closer to just my opinion.." "Think of it as a path
+    towards expertise. So acknowledge that the people taking your CS
+    Omega are not necessarily going to become experts."
+  + "Why do people learn about this material? How do mathematicians
+    think about this material?"
+  + "Reasoning logically; necessary or specific conditions."
+  + "Think of who an expert is slightly differently. That could mean
+    the experts are scientists."
++ You administer the Carl Wieman Science Education Initiative at UBC
+  and were previously an STLF with the initiative.
+  + What are your favorite projects from the initiative?
+    + "One trend that I like working across the departments is seeing
+      the development of our STLFs."
+    + Brett Gilley's work. "Students get little props to do their own
+      little simulations. One involves marshmallows and popsicle
+      sticks."
+    + Two-stage exams: ~"Students write a traditional individual exam
+      for 2/3 of the time period. The remaining time they redo the
+      same test as a group."
+  + What are some of the lessons you learned from the initiative?
+  + You said you liked to see the development of the STLFs. I'm
+    wondering of practice educators in our audience could learn from
+    that. Are there some key milestones in their development---tools,
+    beliefs, ideas, practices---that they go through that practicing
+    educators can think about or work on?
+    + "Anyone can start with getting a background in what evidence
+      exists in teaching and learning effectively."
+    + Reading seminar around how people learn: from cog psych
+      research, ed psych, etc.
+    + Main textbook is "How Learning Works"; focus on applications in
+      higher education classrooms
+      + What sort of background do people come in with?
+      + How can you promote motivation in your classroom?
++ Piam: Besides exams, how can you take an unpleasant experience and
+  turn it into a learning experience?
+  + Clickers in the class
+
+
+
+
+
++ What have you learned as a mathematics educator from the broader
+  area of science education?
++ Can you tell us about some of your work presently in math education?
++ (Upgraded from stock:) What's something you're a student of now?
+  What does your experience as a student tell you about teaching and
+  learning?
++ Regular: Describe a teacher you've had that you admired and what you
+  admired about them.
++ Regular: What's something you think every science educator should
+  read, learn, do, or play with?
+* Question Pool
++ Regular: Describe a teacher you've had that you admired and what you admired about them.
++ Regular: What's something you think every CSist should read, learn, do, or play with?
+
+** Secondary question pool
++ What's something cool you do in your teaching?
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
+** Shout-outs
+** Terminology
+* TODO list for next time
++ Guest suggestion: UW Psychologist [Sakhna??] Cheryan; stereotype threat work
++ Dutch's Guest suggestion: http://pages.cs.wisc.edu/~remzi/OSTEP/
+  (the prof writing this book); may have things to say about open
+  textbooks
+
+From Colleen, possible guests:
++ Leigh Anne Sudol
++ a HS teacher unmentioned
+
+From Warren:
++ Greg Wilson from Toronto; about to move to the UK
+* TODO Shout-out stuff
++ http://sclt.science.ubc.ca/
++ Carl Wieman Science Education Initiative
++ Software Carpentry: software-carpentry.org
+  + Greg Wilson
+  + teaching.software-carpentry.org: tips
+    + http://swcarpentry.github.io/training-course/tips/
+    + livecoding with stickies
++ Expertise-based classroom
++ Deliberate Practice
++ Brett Gilley
++ Two-stage exams
++ cwsei.ubc.ca: includes information about various initiatives
+  + Resources tab:
+    + Instructor Guidance (main one)
+      + Two-pagers
+    + Videos
+      + Includes two-stage exam video
+    + Tools
+    + Papers to read more
+  + Departments tab, probably highlight Computer Sci
++ How Learning Works textbook
+  + How People Learn, NAP
++ Instruments for attitude measurements
++ Classroom observation protocols to measure what students and
+  instructors are doing
+** Favorites
+

@@ -1,0 +1,168 @@
+#+TITLE:     SIGCSE Special Project Grant Report: Improving the CS Education Zoo
+#+AUTHOR:    Steven Wolfman, Ph.D.\\Prof. of Teaching, UBC CS\\wolf@cs.ubc.ca
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+* SIGCSE Special Project Grant Report:\\Creating a Polished CS Education Zoo to Share CS Educators' Ideas
+In January of 2015, the [[http://webyrd.net/zoo.html][CS Education Zoo]] received a $2700 SIGCSE
+Special Project Grant to improve the polish and accessibility of the
+Zoo. The Zoo is an ongoing series of hour-long video blogs led by Will
+Byrd and Steven Wolfman in which we (the hosts) discuss CS Education
+with guests from various positions and backgrounds.  Guests include
+university CS educators in various positions, Computer Scientists in
+industry positions with particular insight on CS education, CS
+education researchers, and non-traditional CS educators.
+
+Using the grant, we hired Piam Kiarostami---an alum of one of our
+institutions, the University of British Columbia---who has:
+contributed to both the "normal course" of interviews for the zoo,
+spearheaded a new format ("Creature Features") that creates excitement
+about the Zoo on social media and identifies potential future guests,
+indexed and tagged "highlights" from our existing Zoo interviews,
+commenced a collaboration with Colleen Lewis and csteachingtips.org to
+publicize these highlights, and prototyped improvements to the Zoo's
+web presence.
+
+Through this process, our audience for the Zoo has steadily
+grown. Although some of our episodes still have around 200 views, our
+most popular episodes have many hundred or thousands of views, with
+Mark Guzdial's episode being the most popular at over 3,000 views,
+compared to 225 views when we submitted the grant.
+
+Our new "Creature Features" were a series of extremely brief
+interviews of professionals interested in CS Education, filmed at
+SIGCSE 2015. Piam worked with us to solicit, record, edit, and
+publicize via Twitter roughly 20 short interviews. Of these, 11 are
+now edited and linked as a "Special Episode" from the CS Education Zoo
+site and include particularly interesting interviews like [[https://youtu.be/NmkwNa493Y4][Gerald Weiss
+on the end of the CS polymath]], [[https://youtu.be/cosUyCwQA8w][Brian Dorn on K-12 CS teaching]], and
+[[http://youtu.be/NGcT3ClAygo][Tony Luckett on diversity in CS education]]. We still have 3 usable
+interviews left in editing; one of these, Ben Shapiro, is a good
+example of someone that we identified from the Creature Features as an
+excellent guest for the show. We're currently negotiating with him for
+a time to join us this summer. We've posted the [[https://goo.gl/B268dl][full set of Creature
+Feature videos]] online.
+
+Springboarding off the Creature Features, Piam has established a two
+pronged social media strategy for the Zoo:
+1. Tweet highlights of interviews to increase awareness (and garner
+   retweets).
+2. Increase our social media presence at events like SIGCSE by
+   tweeting links to quick 1 minute interviews with Hashtags to
+   interested parties. This in turn builds momentum through retweets
+   from the interviewees, their institutions, and their social
+   network.
+Piam's knowledge of social media has led to particularly important
+(but small) details including institution names in the tweets to
+create more social networking momentum from the second piece of this
+strategy.
+
+Piam has also worked through all of the Zoo episodes to date to pull
+out show "highlights". The highlights are brief cuts from the longer
+interviews, each tagged with its topic. There are 62 of these ranging
+in length from 1--6 minutes. Some particularly compelling examples
+include: Mark Guzdial discussing what we called [[https://youtu.be/ZpxxwZ9f_bo][teaching "worst"
+practices]], mistakes that CS educators make; Colleen Lewis talking
+about (and enthusiastically demonstrating) [[https://youtu.be/3BVAaGWHD4I][teaching arrays with Dixie
+cups]]; and Rebecca Bates explains from the student, teacher, and
+industry perspectives [[https://youtu.be/f_0lbxv59iY][what makes a good project course]]. We're working
+with Colleen Lewis in the hopes of adding these to the stream of
+teaching tips at [[http://www.csteachingtips.org][csteachingtips.org]] and tweeted to their 1000+
+followers. We've posted the [[https://goo.gl/jBrMBf][full set of highlight videos]]
+online.
+
+Although our website remains fairly primitive, Piam has added the
+creature features and highlights to the existing page. Furthermore, he
+has prototyped for us an alternate system for managing the site
+directly via GitHub. (Presently, the site sits in a repository but is
+separately pushed to the web.) The site has only placeholder content,
+but is linked at http://piam.github.io/zoo/, and we have instructions
+on how to transition to this setup if we decide it's superior to our
+existing arrangement.
+
+Piam also centralized our video management and editing into a CS
+Education Zoo Google account. He explored several other video editing
+tools---including both free and trials of expensive paid options---but
+concluded that the cloud-based Google tools were sufficiently powerful
+to justify taking advantage of their much greater accessibility than
+other dedicated video editing tools.
+
+Our timeline on the project continues for two more months;
+furthermore, Steve's teaching commitment to an early-summer intense
+course interfered with our summer interview schedule. So, we hope to
+accomplish more still---including recording and highlighting more
+episodes of the zoo---and of course to continue the Zoo into the
+future.
+* Random useful notes
+Need:
++ some stats on views (Guzdial and Voll)
++ stats on # of episodes "completed" (which includes creature features)
++ improved web and social media presence
+  + explored maintaining web via github pages and posted prototype page (no content included yet, just general format): http://piam.github.io/zoo/
++ searchable/sharable videos
+  + counts of cuts to be posted
+  + three examples that are great
++ tweets (currently almost entirely "creature features" from SIGCSE 2015)
++ Improve solicitation of guests and live audience members (our
+  "peanut gallery").
+  + see "creature features"
+
+The show has met with modest success so far.  For example Episode #1 from 18 June 2014 with guest Kimberly Voll (who teaches in a non-traditional Master's level digital media program) has received 288 views as of 11 November 2014, while Episode #6 from 25 September 2014 with well-known guest Mark Guzdial has received 225 views as of the same date.
+
+Based on discussions with audience members (live and post hoc) and guests, we believe the show could have significantly more impact with more "polish".
+
+The purpose of this grant is to hire a talented undergraduate student from January through August of 2015 with both computing and storytelling experience (ideally in film) as an Editor/Director for the show to work with myself and Will Byrd on providing that polish for approximately 16 episodes (including the 8 existing episodes). (We may split this into two student "stints" corresponding to academic terms running Jan--Apr and May--Aug.)
+
++ Project Outcomes
+  
+  Our expected outcomes would be a sustainable (improved) web and social
+  media presence, 16 polished episodes that are easy to view, search,
+  and share, and an ongoing positive impact on dissemination of ideas in
+  CS education.
+
++ Student Editor/Director's Duties
+  
+  The student's duties would include:
+  + Editing raw 1 hour shows to a shorter format suitable for
+    "lunch-break" viewing, ~40--45 mins.
+  + Enabling access to and search of interesting moments in the shows,
+    perhaps by creating short 2--6 minute clips with metadata or by
+    tagging the video stream to allow easy browsing.  This might also
+    include topic-based videos that cut across episodes.
+  + Improving the show's web and social media presence both to bring in
+    more viewers and to enable existing viewers to find, reference, and
+    share useful content more easily.
+  + Improve solicitation of guests and live audience members (our
+    "peanut gallery").
+  + Work to make these changes as sustainable as possible via good
+    design of tools and documentation of processes.
+**** Piam's social media strategy
+We have a two pronged social media strategy where in we do the following:
+1. Tweet highlights of interviews to increase awareness (retweets).
+2. Increasing our social media presence at events like SIGCSE by
+   tweeting links to quick 1 minute interviews with Hashtags to
+   interested parties. This in turn allows us to get more traction
+   from step 1.
+**** Stuff I need to declare victory
++ Need completion on highlights
+  + have all the highlights
+  + all highlights in consistent format including, e.g.,
+     blurb in title of what they're about
+
++ Need better website:
+  + Hosting/format
+    + editing/pushing doesn't require Will
+    + better hosting service (pages.github, sites.google?)
+  + Content
+    + highlights are there
+    + Creature Feature is there "Episode #XX, SIGCSE 2015 Creature Features"
+    + easy to find/explore all videos (prob. via CS Ed Zoo account)
+    + links to: "contact us", "suggest a guest", "join the peanut gallery" (be informed about upcoming shows)
+
++ One more zoo would be good; that's on Steve :)

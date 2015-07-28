@@ -81,17 +81,17 @@ intelligent agents and social information processing.
 + Jeff: increasing enrollment means we need to figure out how to reach
   all those students; it won't be 1-1 in office hours.
 + Will: What are some of the lessons learned from MOOCs in terms of
-  how to make teaching more effective?
+  how to make teaching more effective? (~7:00)
 + Jeff: Two lessons.
   + "The idea that you interleave assessments with the course material
     itself, and you do that regularly."
   + Andy Ko: When they incorporate quizzes/assessment into a task,
     people engage for longer than when you don't.
-  + "Assessments along with feedback, and *fast* feeback."
-  + "If there's one thing I'm going to take back to my course in the
-    fall, it's that all other things being equal, fast feedback is
+  + "Assessments along with feedback, and *fast* feeback." 
+  + (Start at 8:17) 8:26: "If there's one thing I'm going to take back to my course in
+    the fall, it's that all other things being equal, fast feedback is
     important.  Fast feedback is better than good feedback that is
-    slow."
+    slow." to ~9:36 + 10:59-11:40
   + If you can get basic feedback back quickly, that's useful.
     Compared to poring over your code for three weeks is not nearly as
     functional as getting something back immediately.
