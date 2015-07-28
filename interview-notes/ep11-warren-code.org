@@ -55,23 +55,23 @@ Without further ado, Warren. Welcome to the Zoo!
   + "What I learned later on... is you can make a lot more effective
     decisions in teaching based on knowing what learning looks like to
     students."
-  + "We use the term 'expertise-based classroom'."
+  + *We use the term 'expertise-based classroom'.*
   + "We think of students as novices in the discipline, and we're
     trying to move them along to experts."
   + "At that point I started introducing many more activities. More
     students getting practice while I'm there."
   + "If they had to learn something that they can learn by reading,
     trying to push that out of the classroom."
-  + "It can't just be 'just watch this chapter' or 'just read this
+  + *highlight?* "It can't just be 'just watch this chapter' or 'just read this
     video'." "The way to promote that was to have a very specific set
     of tasks. Look at this figure, read these specific paragraphs, and
     then there's a little quiz that guides people about what they
     should get out of the reading."
   + Piam: you mentioned 'deliberate practice'. Can you tell me more?
-  + "Deliberate practice as opposed to practice is the difference
-    between playing a lot of chess games and playing chess games but
-    reading about the theory of chess or working on openings or
-    reviewing how you played and thinking about what you'd do next
+  + *highlight?* "Deliberate practice as opposed to practice is the
+    difference between playing a lot of chess games and playing chess
+    games but reading about the theory of chess or working on openings
+    or reviewing how you played and thinking about what you'd do next
     time."
   + Piam: Do you give students the motivation to do that (deliberate
     practice) or do you actually *do it* in the classroom?
@@ -79,10 +79,10 @@ Without further ado, Warren. Welcome to the Zoo!
     practice while you're here and you can make mistakes."
   + "Giving effective feedback is why it's useful to do some of this
     in the classroom."
-  + "People are concerned that I'm going to give them an activity and
-    now I'm just a passive person in the classroom. ... So actually
-    the expertise of the instructor is even more prominent in this
-    kind of setting."
+  + *highlight?* "People are concerned that I'm going to give them an
+    activity and now I'm just a passive person in the
+    classroom. ... So actually the expertise of the instructor is even
+    more prominent in this kind of setting."
   + Follow-up: what do we do for students who are *not* going to be
     experts. (E.g., 'cs omega', be it computational thinking or
     software carpentry.)
@@ -92,8 +92,8 @@ Without further ado, Warren. Welcome to the Zoo!
   + "Why do people learn about this material? How do mathematicians
     think about this material?"
   + "Reasoning logically; necessary or specific conditions."
-  + "Think of who an expert is slightly differently. That could mean
-    the experts are scientists."
+  + *highlight?* "Think of who an expert is slightly differently. That
+    could mean the experts are scientists."
 + You administer the Carl Wieman Science Education Initiative at UBC
   and were previously an STLF with the initiative.
   + What are your favorite projects from the initiative?
@@ -102,10 +102,9 @@ Without further ado, Warren. Welcome to the Zoo!
     + Brett Gilley's work. "Students get little props to do their own
       little simulations. One involves marshmallows and popsicle
       sticks."
-    + Two-stage exams: ~"Students write a traditional individual exam
-      for 2/3 of the time period. The remaining time they redo the
-      same test as a group."
-  + What are some of the lessons you learned from the initiative?
+    + *highlight?* Two-stage exams: ~"Students write a traditional
+      individual exam for 2/3 of the time period. The remaining time
+      they redo the same test as a group."
   + You said you liked to see the development of the STLFs. I'm
     wondering of practice educators in our audience could learn from
     that. Are there some key milestones in their development---tools,
@@ -115,8 +114,8 @@ Without further ado, Warren. Welcome to the Zoo!
       exists in teaching and learning effectively."
     + Reading seminar around how people learn: from cog psych
       research, ed psych, etc.
-    + Main textbook is "How Learning Works"; focus on applications in
-      higher education classrooms
+    + *highlight?* Main textbook is "How Learning Works"; focus on
+      applications in higher education classrooms
       + What sort of background do people come in with?
       + How can you promote motivation in your classroom?
 + Piam: Besides exams, how can you take an unpleasant experience and
@@ -197,7 +196,7 @@ From Warren:
     + http://swcarpentry.github.io/training-course/tips/
     + livecoding with stickies
 + Expertise-based classroom
-+ Deliberate Practice
++ Deliberate Practice (Ericsson (?))
 + Brett Gilley
 + Two-stage exams
 + cwsei.ubc.ca: includes information about various initiatives
@@ -207,12 +206,12 @@ From Warren:
     + Videos
       + Includes two-stage exam video
     + Tools
+      + Instruments for attitude measurements
+      + Classroom observation protocols to measure what students and
+	instructors are doing
     + Papers to read more
   + Departments tab, probably highlight Computer Sci
 + How Learning Works textbook
   + How People Learn, NAP
-+ Instruments for attitude measurements
-+ Classroom observation protocols to measure what students and
-  instructors are doing
 ** Favorites
 
