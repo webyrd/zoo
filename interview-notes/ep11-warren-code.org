@@ -188,30 +188,17 @@ From Colleen, possible guests:
 From Warren:
 + Greg Wilson from Toronto; about to move to the UK
 * TODO Shout-out stuff
-+ http://sclt.science.ubc.ca/
-+ Carl Wieman Science Education Initiative
-+ Software Carpentry: software-carpentry.org
-  + Greg Wilson
-  + teaching.software-carpentry.org: tips
-    + http://swcarpentry.github.io/training-course/tips/
-    + livecoding with stickies
-+ Expertise-based classroom
-+ Deliberate Practice (Ericsson (?))
-+ Brett Gilley
-+ Two-stage exams
-+ cwsei.ubc.ca: includes information about various initiatives
-  + Resources tab:
-    + Instructor Guidance (main one)
-      + Two-pagers
-    + Videos
-      + Includes two-stage exam video
-    + Tools
-      + Instruments for attitude measurements
-      + Classroom observation protocols to measure what students and
-	instructors are doing
-    + Papers to read more
-  + Departments tab, probably highlight Computer Sci
-+ How Learning Works textbook
-  + How People Learn, NAP
++ [[http://sclt.science.ubc.ca/][UBC Science Centre for Learning and Teaching]]
++ [[http://www.cwsei.ubc.ca/resources/index.html][Carl Wieman Science Education Iniatitive's "Resources" Page]], including:
+  + [[http://www.cwsei.ubc.ca/resources/instructor_guidance.htm][Instructor Guidance]] (including "two-pagers" on a bunch of good ideas)
+  + [[http://www.cwsei.ubc.ca/resources/instructor_guidance.htm][Videos]] (including a two-stage exam video)
+  + [[http://www.cwsei.ubc.ca/resources/tools.htm][Tools]] (including attitude measurement and classroom observation instruments)
++ [[http://software-carpentry.org/][Software Carpentry]] and their [[http://swcarpentry.github.io/training-course/tips/][Tips for Instructors]]
++ [[http://www.third-bit.com/][Greg Wilson]]
++ [[https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice][Deliberate Practice]]
++ [[http://www.eos.ubc.ca/about/faculty/B.Gilley.html][Brett Gilley]]
++ [[http://www.cwsei.ubc.ca/resources/files/Two-stage_Exams.pdf][Two-stage exams]]
++ [[https://books.google.ca/books/about/How_Learning_Works.html?id=gu5qpi5aFDkC][How Learning Works]]
++ [[http://www.nap.edu/openbook.php?isbn=0309070368][How People Learn]]
 ** Favorites
 
