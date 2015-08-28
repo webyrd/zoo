@@ -10,3 +10,7 @@ pic-src/show-icons/Thumbs.db
 webpage/pic-icons/Thumbs.db
 webpage/pic-show/Thumbs.db
 webpage/pic-icons/Thumbs.db
+*.tex~
+*.org#
+pic-src/show-icons/sigcse-2015-creature-features/Thumbs.db
+pic-src/show-icons/sigcse-2015-creature-features/Thumbs.db

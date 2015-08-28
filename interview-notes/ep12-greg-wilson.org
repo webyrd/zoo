@@ -1,0 +1,222 @@
+* Steps for Hangout on Air
++ Visit https://plus.google.com/hangouts/onair
++ Start a Hangout on Air (button)
++ Copy and paste the URL that shows (minus the cruft at the end) to share with other guests
+  + May want to setup with Cameraman and Control Room (and Toolbox) first
++ Tweet that it's starting and URL!
++ *NOTE* about how we use the chat window
+* Greg Intro
+Greg Wilson is the creator and Executive Director of Software
+Carpentry, a crash course in computing skills for scientists and
+engineers. He has orked for 30 years in both industry and academia and
+is the author or editor of several books on computing (including the
+2008 Jolt Award winner "Beautiful Code") and two for children. Greg
+Received a Ph.D. in Computer Science from the University of Edinburgh
+in 1993.
+* Targeted Questions
++ I'd love it if you would start by talking to us about what Software
+  Carpently is and something of the history of Software Carpentry.
+  + *Is* there something useful that CSists can contribute to SC?
++ What have you learned from putting together the SC lessons?
++ What should CS educators know that you teach, or that your teachers learn?
+  + How should they learn it?
++ Open sourcing educational materials
+  + What do people need to know? Technically? Pedagogically?
++ Why are the skills/ideas you put in SC the key ones to have?
++ You teach git, but you have some concerns about it. Would you like
+  to talk to us about what *is* and *isn't* valuable for you in Git?
++ What do you see as particularly interesting in trends in CS
+  education and CS education research for the near future?
+
++ (Upgraded from stock:) What's something you're a student of now?
+  What does your experience as a student tell you about teaching and
+  learning?
++ Regular: Describe a teacher you've had that you admired and what you
+  admired about them.
++ Regular: What's something you think every science educator should
+  read, learn, do, or play with?
+* Question Pool
++ What's something cool you do in your teaching?
++ How do you establish the atmosphere of the course, where people are engaged, excited, and willing to take changes?
+  + How do you fix the atmosphere in a course that's gone awry?
++ What's the most interesting non-CS teaching experience you've had? What did you learn from it?
+  + What's something you're a student of now? What does your experience as a student tell you about teaching?
+  + How have those experiences informed your teaching in CS?
++ How do you share your excitement about Computer Science with people outside the field?
++ What's your favorite computing story?
++ What's exciting to you in education that you have tried?
++ What's something we really don't need to know about CS anymore that's in our curricula?
++ How should CS reach out to the public?
++ What tips do you have for successfully teaching a large class (100+ people)?
++ What tips do you have for successfully teaching a small class (10- people)?
++ What do you do to prepare before a course starts?
++ How do you get to know your students?
++ How do you assess your students?
++ What do you do in lecture/class?
++ What's exciting that you haven't tried?
++ How do you identify and help students who are struggling?
++ How do you help students who are enthusiastic for extra work?
++ How do you keep a course fresh when you teach it multiple times?
++ How do you handle challenging students?
++ How do you manage TAs, both so that the basic needs of the course are met and so that those willing are inspired and able to go above and beyond?
++ How do you manage the classroom environment, particularly cell phones, laptops, and other distracting devices?
++ How do you get people to participate in class discussions?
++ How do you answer questions ("good" questions, "dumb" questions, etc.)?
++ What's something every Computer Scientist should know that's not in our curricula?
++ Tell us about something you tried in your teaching that went horribly awry.
++ Do you have topics where your own interest flags? What do you do?
++ What's something that students consistently have trouble learning in your courses? How do you address it?
++ What do you do for students who REALLY want some topic but your school just doesn't do it?
+* Actual Questions
++ 9:20: "More harm than good"; hundreds of thousands of lines in
+  Fortran; Yes, it's Fortran but at least there are functions
++ 9:21: Rolly chairs to launch jobs on multiple computers
++ 9:22: Skills that work so well that they've become boring
++ 9:23: An almost inverse relationship between what people need and
+  what's exciting.
++ 9:24: Most scientists.. are no more excited about programming than
+  they are about stats.
++ 9:25: Most people in Computer Science do not understand
+  science. (Because of lack of lab time doing experiments.)
++ 9:26: Impedance mismatch. Not trying to devalue either side.
++ 9:26: Version control, modularize code, etc. (What a biologist needs
+  to teach.)
++ 9:28: I've never had anyone send me a pull request on a powerpoint
+  presentation.
++ 9:29: Single-author/single-lesson in academia.
++ 9:30: Why is it odd [to crowdsource/open source lessons]?
++ 9:32: Peer instruction. It's a revelation when that
+  happens. Learning styles are a myth. Understanding by design. Stereotype threat.
++ 9:34: Computer Scientists can learn enough about what scientists do
+  to become useful instructors.
++ 9:34: Up until about two years ago, one of the core topics in SC was
+  testing. But we dropped that.
+  + Testing in science is hard. If I knew the right answer, I would
+    have published and moved on.
+  + Standards of precision differ in different disciplines. So,
+    there's less transference across disciplines of how to craft
+    tests.
++ 9:37: CSists are pretty good when it comes to teaching things like
+  DBs. (Teaching generator expressions to people who have never
+  programmed before.)
++ 9:39: Most programming education is for software engineers, but most
+  people who need to [create software] are not software engineers.
++ 9:40: Piam asks about paywalls.
++ 9:41: Story about his sister dying of pancreatic cancer and how
+  frustrating it was that the research was paywalled.
++ 9:42: Specific argument to SIGCSE about opening its publications. If
+  I have a plea for your audience: stick it up on arxiv.org.
++ ~9:47: list of publications of interest
++ 9:48: Stack Overflow, otherwise known as homework central.
++ 9:50: Beautiful Ph.D. thesis waiting to happen; thousands of
+  subjects a year at no cost: How to assess the outcomes of the
+  Software Carpentry workshops.
++ 9:53: Piam asks for resources that are valuable. Greg: "Single most
+  user-hostile piece of software that ever existed." "Github is a
+  really nice website." "A natural way to do pre-commit review."
++ 9:55: I wish there was a tool that at least made a nod toward the
+  other 99%.
++ 9:56: Use GitHub for almost everything. Lessons on GitHub. GitHub
+  pages for websites for each workshop.
++ 9:56: Make version control systems for *others* (e.g., scientists),
+  not CSists. "If you want to get half a million scientists use
+  version control next year. What you do this year is make git work
+  with Excel spreadsheets."
++ 10:00: "Many people don't adopt OOP because you can't do it without
+  self and __init__."
++ 10:00: More on the study question (Ph.D.): where do people stop
+  learning the tools and why.
++ 10:01: Key tools: UNIX shell. "Easiest way to introduce them to
+  ideas like 'take the last 5 things and stick it in a script to redo
+  it'." Task automation. Pipes. "Of the topics we teach, it is the one
+  that fails least in practice."
++ 10:02: Version control. git. mercurial.
++ 10:03: Python. Really trying to teach modular programming. Why do
+  you break code up into functions? How do you identify the functions
+  that ~"want to be broken out"?
++ 10:04: VC for: How to collaborate with their future selves and others.
++ 10:04: SQL using SQLite. Atomic values. Regular data.  Nulls.
+  (Dealing with gaps in your data.) Joins.
++ 10:05: Occasionally, regular expressions or make. Regex for digital
+  humanities/bio for parsing.
++ 10:06: make.. "I have mixed feelings about make."  Idea that you can
+  automate the reconstruction of documents.  Rebuild your scientific
+  paper from data to final version.  Powerful step towards
+  reproducible research.
++ 10:08: They won't show up for the sermon; they'll show up for the
+  bowl of soup. [And grab 1 minute before.]
++ 10:09: Tasks authentic. Load a CSV data set. Plot it. Check whether
+  the data is fake. Repeat it for several data files. "30 minutes into
+  the lesson, we've got them." Something they care about "for each
+  data file, give me the plot".
++ 10:11: Scientists care about productivity, not wrestling with
+  code. "When we talk about high-performance computing, that is
+  fundamentally wrong-headed." They care about high-productivity
+  computing.
++ 10:12: [It's the extra afternoon a week part that's worth grabbing.]
+  Reproducible science is a problem because it's a stick, not a
+  carrot. Instead, say "Learning better programming will save you
+  10-20% of your time over the rest of your career."
++ 10:13: Lots of examples of technical problems like spreadsheets not
+  working in VC.
++ 10:14: SC for people programming badly. DC for people who think they
+  just want to analyze data, not program. More focus on plotting and
+  analysis.
++ 10:15: "A practical course that combines data wrangling with stats is inevitable at a research university."
+* TODO list for next time
++ Guest suggestion: UW Psychologist [Sakhna??] Cheryan; stereotype threat work
++ Dutch's Guest suggestion: http://pages.cs.wisc.edu/~remzi/OSTEP/
+  (the prof writing this book); may have things to say about open
+  textbooks
+
+From Colleen, possible guests:
++ Leigh Anne Sudol
++ a HS teacher unmentioned
+
+From Warren:
++ Greg Wilson from Toronto; about to move to the UK
+* TODO Shout-out stuff
++ @gvwilson
++ [[http://software-carpentry.org/blog/][Software Carpentry Blog]]
++ [[http://neverworkintheory.org/][Open publications of industry interest]] 
++ [[http://exple.tive.org/blarg/2015/07/24/hostage-situation/][Hostage Situation]] of code/data in acamedia
++ [[http://f1000research.com/articles/3-62/v1][Lessons Learned from Software Carpentry]]
++ [[http://files.software-carpentry.org/training-course/2012/08/hannay-survey-2009.pdf][How Do Scientists Develop and Use Scientific Software?]]
++ [[https://github.com/swcarpentry/git-novice][SC lesson on git with 50+ contributors]]
++ [[https://zenodo.org/][Zenodo]]
++ [[https://computinged.wordpress.com/][Mark Guzdial's blog]]
++ [[https://en.wikipedia.org/wiki/Peer_instruction][Peer instruction]]
++ [[http://www.cwsei.ubc.ca/Files/EOS/EOSSEITimes_5.5LearningStyles.pdf][Learning styles are a myth]]
++ [[https://en.wikipedia.org/wiki/Understanding_by_Design][Understanding by Design (UbD)]]
++ [[https://en.wikipedia.org/wiki/Stereotype_threat][Stereotype threat]]
++ [[http://ca.wiley.com/WileyCDA/WileyTitle/productCd-0470484101.html][How Learning Works]]
++ [[http://arxiv.org/][arXiv]] and [[http://arxiv.org/corr/home][CoRR]] ([[http://www.acm.org/publications/fair-access/acm-fair-access?pageIndex=4#authorpublrights][ACM authors can submit before peer review]])
++ [[http://dl.acm.org/citation.cfm?id=2492007.2492020][Success in Introductory Programming: What Works?]]
++ [[http://www.cc.gatech.edu/fac/mark.guzdial/][Mark Guzdial]]
++ [[http://www.cc.gatech.edu/people/barbara-ericson][Barbara Ericson]]
++ [[http://www.cs.kent.ac.uk/people/staff/saf/][Kent Computing Education Group]]
++ [[http://www.cs.kent.ac.uk/people/staff/saf/][Sally Fincher]]
++ [[http://www.cs.kent.ac.uk/people/staff/nccb/][Neil Brown]]
++ [[https://margaretannestorey.wordpress.com/][Peggy Story]]
++ [[http://betsydisalvo.com/wp-content/uploads/2012/08/Viepoints1.pdf][Glitch Project]]
++ [[http://mcs.open.ac.uk/mp8/][Marian Petre]]
++ [[http://dl.acm.org/citation.cfm?id=543836][Unlocking the Clubhouse]]
++ [[https://mercurial.selenic.com/][mercurial]]
++ [[https://git-scm.com/][git]]
++ [[https://github.com/][GitHub]]
++ [[https://bitbucket.org/][BitBucket]]
++ [[http://www.arfon.org/][Arfon Smith]]
++ [[http://ipython.org/][iPython]]
++ [[https://www.sqlite.org/][SQLite]]
++ [[https://www.gnu.org/software/make/][make]]
++ [[https://www.python.org/][Python]]
++ [[https://www.r-project.org/][R]]
++ [[http://www.mathworks.com/products/matlab/][Matlab]]
++ [[http://datacarpentry.github.io/][Data Carpentry]]
++ [[http://idyll.org/~tracyt/][Tracy Teal]]
++ [[http://software-carpentry.org/scf/steering-committee.html][Software Carpentry steering committee]]
++ [[http://www.sigcse.org/][SIGCSE]]
+
+
+
+
